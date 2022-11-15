@@ -1,0 +1,30 @@
+tag,description,number of highlights
+interesting,Further review required,0
+Add ’Remission’ event category,Compute ’Remission’ event category from the existing clinical data,4
+Clarify data visualisation elements,Some visualisations lacked axis labels and introductory text for a better grasp,28
+Clarify text descriptions,Some concepts need further clarification for better understanding,14
+Clarity data linking process,Data linking and lineage need to be explicit for the participants,30
+Comparing queries in groups is useful,Comparing queries improves the comprehension of underlying data patterns prior to analysis,9
+Custom events input,Possibility to import a CSV with events to the KG and visualise it on the dashboard,0
+Data standardisation process not clear,Data standardisation process not clear,9
+Data summaries are helpful,Summaries provided a helpful overview of the data for better understanding,15
+Data visualisation is helpful,Data visualisations help to understand the data and flow of the dashboard,38
+Download all queries data at once is practical,Simplified effort to download all data generated during the session,6
+Easy to use,The tasks are straightforward to complete using the dashboard,6
+Environmental data prior to flare events,Temporal linkage must be for the period before the clinical events,23
+Extend data aggregation options,Sum and median aggregations are requested for the environmental data,6
+Good data exploration features,Data exploration features engage researchers with the linked data,9
+Grouping concept needs clarification,Z-scores aim to help data exploration was misinterpreted,11
+Grouping queries error,Coding error that did not display certain visualisations in the comparative tab,6
+Map confusing,Data points density concept and the choropleth map were not practical,11
+Positive user experience,Positive user experience promoted user engagement with linked data,10
+Query features useful,Query features are useful to link and retrieve the required linked data,15
+Rephrase Ireland selection,Grouping queries approach was only understood after arranging the groups,2
+Requirements refinement,Checkbox label to select all LOIs in Ireland had ambiguous meaning,0
+Session technical issues,Delayed responses and control malfunctioning during the session,22
+Task instructions clarified,Task wording and structure difficult the acknowledgement of the task completion,10
+Text descriptions and tooltips are handy,"Descriptions, tooltips and pop-ups help to guide the user through the processes",9
+Useful,The approach is useful and worthwhile to support for HDR in their research,9
+Moderator Assist,,231
+Additional features,,5
+Early feedback,,1

@@ -1,0 +1,61 @@
+
+Timestamp: 7/14/2022 10:19:13
+Participant: P2
+
+1. Overall, I am satisfied with how easy it is to use this system.
+    3 -- Comments. Clear process, just small items noted in test to make the entire process clear and slow progress (especially for first time user).
+    
+2. It was simple to use this system.
+    2 -- Comments. Yes, vry easy. It just needs a little clarity on some details to make it easier to navigate.
+    
+3. I could effectively complete the tasks and scenarios using this system.
+    2 -- Comments. Yes, just the metadata file preparation came out of nowhere and is a large requirement to progress in the middle of using the UI.
+    
+4. I was able to complete the tasks and scenarios quickly using this system.
+    2 -- Comments. Just the UI step would really slow me down if I didn't use the default (which I shouldn't)
+    
+5. I was able to efficiently complete the tasks and scenarios using this system.
+    2 -- Comments. Yes, there were no issues. One small glitch with the output file not working and I had to refresh.
+    
+6. I felt comfortable using this system.
+    1 -- Comments. Yes, very comfortable
+    
+7. It was easy to learn to use this system.
+    2 -- Comments. Very straightforward.
+    
+8. I believe I could become productive quickly using this system.
+    2 -- Comments. I would need to think more about its usage for me, but yes it is very intuitive and the report has a lot of interactive options.
+    
+9. The system gave error messages that clearly told me how to fix problems.    
+    2.0 -- Comments. the output file in Step 3 didn't work twice, I had to refresh.
+    
+10. Whenever I made a mistake using the system, I could recover easily and  quickly.
+    1.0 -- Comments. Yes, no real ways to make a mistake.
+    
+11. The information (such as on-line help, on-screen messages and  other documentation) provided with this system was clear.
+    2 -- Comments. Only very minor areas to tweak to enhance clarity.
+    
+12. It was easy to find the information I needed.
+    2 -- Comments. Yes
+    
+13. The information provided for the system was easy to understand.
+    2 -- Comments. Just needed reminders on occasion of the details - again for a first-time user.
+    
+14. The information was effective in helping me complete the tasks and  scenarios.
+    2 -- Comments. Yes, minor suggested edits/amendments
+    
+15. The organization of information on the system screens was clear.
+    2 -- Comments. Only the data analysis step in the report should be moved out, as the rest is linked to the medatadata file.
+    
+16. The interface of this system was pleasant.
+    1 -- Comments. nan
+    
+17. I liked using the interface of this system.
+    1 -- Comments. nan
+    
+18. This system has all the functions and capabilities I expect it to have.
+    2 -- Comments. nan
+    
+19. Overall, I am satisfied with this system.   
+    2 -- Comments. nan
+

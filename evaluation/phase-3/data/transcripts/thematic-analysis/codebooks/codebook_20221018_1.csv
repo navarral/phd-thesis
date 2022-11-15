@@ -1,0 +1,54 @@
+tag,description,number of highlights
+Dataset structure clear,The putput dataset columns and rows are understood,38
+Data upload confusing,The layout to upload the events data is not clear or uploaded twice,33
+Step 2 flow unclear,The linkage options are not selected in order nor completely selected,22
+Linkage option clear,The linkage options are selected with an idea of why,114
+Moderator Assist,,125
+Data upload clear,"Upload data is easy and clear, good to provide an exportable and editable template ",48
+Metadata upload off-guard,Not expecting to upload metadata nor having prepared for it,24
+Linkage process clear,The linkage is understood when completing the steps,41
+Export output error,The export button does not work,9
+Zoom technical,Screen sharing or issues with Zoom display,12
+Temporal unit not viable,Temporal units are selected without taking into account the health events time window,12
+Export fine,Export of the zip file is fine,25
+Data table structure confusing,"The events, dates and lag columns are not completely clear",32
+Filter table useful,Filtering the table by values is useful,14
+Plot clear,The presentation of the variables and functionalities are clear in the plot,112
+Plot not clear,A component of the plot is not clear,50
+Confidence in using the data,,13
+Complete output,,38
+Usable tool and data,,86
+Real use case application,The tool and data useful for a real use case application ,54
+Text or feature improvement,"Clarify wording, fix typo on a word, add extra information or add information box (tooltip)",94
+TTL not familiar,,6
+Text consistent,The consistency and systematic way of writing the text is valued,32
+Data protection important,,20
+Rigid linkage purposes,"Only 2 options available for linkage purposes
+",2
+Linkage option to limit others,A linkage option should only be valid for certain selections,2
+Data available comment,"Comment related to the type, resolution, granularity or coverage of the available environmental data.",26
+open tag,,21
+Researcher's expertise,The researcher comments on their fit or background to evaluate the tool.,25
+Task confusion,,19
+Filename not good,The filename is rather lengthy or includes characters that difficult opening the files,14
+Output content clear,,5
+Unclear CSV content,The content of the CSV and the filename are not enough to understand the meaning of the data,9
+CSV output clear,,20
+Report helpful,"The report is nice, useful and helpful to have to understand the data.",125
+Simplify report content,,15
+"Easy, time saving and better","The tool is easy to use, time saving and better than before",57
+Processing steps great,,30
+No preparation,,16
+Linkage option unclear,,47
+CSV output inconsistent,Some of the CSV files have missing data and the reason is not clear,26
+Use data but draw own plots,Use data but analysis and plots will be done based on each use case by myself,3
+Metadata section hard to see,,11
+Technical web issues,"Technical issues when editing cells in data tables or due to browser settings, the web needs to be refreshed",18
+Spinning takes long,Linking takes longer than expected and there is no progress sign,11
+No confident in using data,,4
+Offline deploy,Offline deploy without external links and by bringing your own environmental data.,5
+Too close to analysis,,5
+Sanity checks,,10
+Feedback on why there is no data,,7
+Files not useful,"Metadata, normals, sdev or journey files not useful",4
+Additional features,"Check upload input, filter data table by variable, select specific variables before linkage, allow for multiple aggregation methods,  add research publications.",37

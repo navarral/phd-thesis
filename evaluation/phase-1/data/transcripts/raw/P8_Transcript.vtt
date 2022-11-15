@@ -1,0 +1,2666 @@
+WEBVTT
+
+1
+00:00:01.230 --> 00:00:13.290
+MODERATOR: And then i'm going to give you a remote control so with you click the screen, you should be able to control my screen and when you you confirm that you, you can move your mouse on one side of the counter okay.
+
+2
+00:00:14.460 --> 00:00:17.340
+MODERATOR: perfect, so let us start okay.
+
+3
+00:00:19.050 --> 00:00:38.100
+P8: What you see on the screen or two panels with labels left panel and main panel read the text within the home tab in the main panel allowed and explore data source of your choosing by right clicking and opening and in a new tab once you feel you understand where the data come from.
+
+4
+00:00:39.570 --> 00:00:53.220
+P8: click a button open the map to visualize the density of the data points within the locations of interests, it was you'll be done when you mentioned a few of the locations of interest that have data points available.
+
+5
+00:00:55.770 --> 00:00:57.960
+P8: Okay, so home tab.
+
+6
+00:00:59.490 --> 00:01:04.290
+P8: Top seed semantic combining for exploring environment and disease data.
+
+7
+00:01:06.630 --> 00:01:10.230
+P8: i'm just going to read out loud everything I see, so I can just.
+
+8
+00:01:10.290 --> 00:01:12.090
+MODERATOR: mentally absorption.
+
+9
+00:01:12.990 --> 00:01:19.950
+P8: The seed dashboard hide the complexity linking clinical disease data with environmental observations using knowledge graphs.
+
+10
+00:01:20.430 --> 00:01:36.480
+P8: The desired outcome is to support health data researches identifies appropriate environment variables, to enable their policies exploration and research rare diseases, how to use the dashboard select the submit the query inputs on the Left kept.
+
+11
+00:01:38.130 --> 00:01:39.900
+P8: The queries listed here.
+
+12
+00:01:41.400 --> 00:01:51.090
+P8: explore the result, the resulting linkedin environmental data that appear after clicking submit export the data for your needs.
+
+13
+00:01:51.630 --> 00:02:08.010
+P8: A text file named user query history to text is automatically saved in the APP local folder within with the history of your query input selections will be able to use the file to get the data directly through an API in the future.
+
+14
+00:02:09.720 --> 00:02:18.450
+P8: Data environment observations have been gathered from the following sources, whether pollution and our resource data right click plus open new tab.
+
+15
+00:02:19.830 --> 00:02:22.230
+P8: Data points density click the button.
+
+16
+00:02:23.670 --> 00:02:31.410
+P8: And hover over the region to get the number of data points so instruction was to read home tab.
+
+17
+00:02:32.880 --> 00:02:33.510
+P8: Okay.
+
+18
+00:02:35.730 --> 00:02:44.070
+P8: We did we read out loud choosing right click opening new device if you're in the Center of the day, to confirm click the button.
+
+19
+00:02:47.070 --> 00:02:48.690
+P8: Okay let's try this.
+
+20
+00:02:51.510 --> 00:02:53.640
+P8: Okay vasculitis island.
+
+21
+00:02:55.200 --> 00:02:57.180
+MODERATOR: No, do you mind reading the task again.
+
+22
+00:02:59.220 --> 00:03:10.110
+P8: read the text within the home tab in the main panel allowed and explore the data source of your choosing by right clicking and opening it in a new tab.
+
+23
+00:03:10.380 --> 00:03:10.860
+Okay.
+
+24
+00:03:12.810 --> 00:03:22.980
+P8: Once you feel you understand where the data comes from please click the button open lab to visualize the density of the data points within the location of interest.
+
+25
+00:03:24.030 --> 00:03:28.860
+P8: you'll be done when you mentioned a few of the locations of interest that have data points available.
+
+26
+00:03:29.910 --> 00:03:30.420
+MODERATOR: Okay.
+
+27
+00:03:35.190 --> 00:03:44.340
+P8: So my senses taught us is you got the query explore the resulting linkedin environments or PM the clicking submit.
+
+28
+00:03:46.680 --> 00:03:48.330
+P8: Export the data, he needs.
+
+29
+00:03:50.610 --> 00:03:58.230
+P8: Some trying and Castle, the first instruction wants to read the the what's that what I see.
+
+30
+00:04:00.630 --> 00:04:07.860
+P8: And then explore the data source of your choosing by right clicking and opening it in a new tab.
+
+31
+00:04:08.100 --> 00:04:08.520
+Okay.
+
+32
+00:04:10.950 --> 00:04:11.430
+P8: yeah.
+
+33
+00:04:19.080 --> 00:04:20.520
+P8: interest and.
+
+34
+00:04:20.670 --> 00:04:22.830
+MODERATOR: Remember, which stop you reading.
+
+35
+00:04:24.210 --> 00:04:26.340
+P8: Oh yes, okay so.
+
+36
+00:04:27.540 --> 00:04:33.750
+P8: So think i've done big parts of first question.
+
+37
+00:04:35.520 --> 00:04:41.610
+P8: Once you feel you understand where the data comes from please click the button open map okay.
+
+38
+00:04:49.980 --> 00:04:51.240
+P8: visualize the density.
+
+39
+00:05:19.530 --> 00:05:23.130
+P8: So currently seeing the map of Ireland.
+
+40
+00:05:25.980 --> 00:05:27.540
+P8: My county works fought.
+
+41
+00:05:29.190 --> 00:05:37.770
+P8: Okay that's really nice, you can see the pollution measurement what would, I think some pollution measurement with a number.
+
+42
+00:05:40.140 --> 00:05:45.390
+P8: Number six and the weather one data point density seven.
+
+43
+00:05:51.120 --> 00:06:05.100
+P8: So texting then use aquarius is just magically saved in the APP locker for the history of your query for selection you'll be able to use this far, to get the data directly through an API and the future data can.
+
+44
+00:06:08.790 --> 00:06:11.490
+P8: So you see the same number.
+
+45
+00:06:12.990 --> 00:06:20.970
+P8: county Waterford pollution number two where there's zero that data points density and to them.
+
+46
+00:06:22.650 --> 00:06:26.640
+P8: So there's a scale here, going from cold to warm.
+
+47
+00:06:28.800 --> 00:06:31.230
+P8: Just play around with this.
+
+48
+00:06:32.580 --> 00:06:35.070
+P8: there's a zooming in and zooming out.
+
+49
+00:06:39.180 --> 00:06:39.930
+P8: So.
+
+50
+00:06:41.760 --> 00:06:43.290
+P8: I need to figure out whether to.
+
+51
+00:06:44.760 --> 00:06:51.240
+P8: The scale the once the call to one scale and refers to the map itself.
+
+52
+00:06:54.090 --> 00:06:55.530
+P8: Just kind of play around.
+
+53
+00:06:56.550 --> 00:06:59.760
+P8: With the options yet plot the log mark.
+
+54
+00:07:03.060 --> 00:07:04.830
+P8: which takes you to a different link.
+
+55
+00:07:09.000 --> 00:07:10.980
+P8: dash enterprise download for him.
+
+56
+00:07:15.000 --> 00:07:22.530
+P8: down on form million times per month, so it seems to be a platform for plotting.
+
+57
+00:07:24.210 --> 00:07:26.430
+MODERATOR: something about bite is a Python package.
+
+58
+00:07:26.820 --> 00:07:27.810
+P8: Python acute.
+
+59
+00:07:29.850 --> 00:07:39.780
+P8: Care so the next one, is to goal showed close it data on Harvard just going to click and see what happens.
+
+60
+00:07:42.990 --> 00:07:46.800
+P8: So i'm just going to go through all of them, so there is done, not the plot.
+
+61
+00:07:48.150 --> 00:07:48.810
+P8: which has like.
+
+62
+00:07:49.830 --> 00:07:51.540
+P8: Take a picture image.
+
+63
+00:07:52.620 --> 00:07:55.560
+P8: So you can take a picture of the map like an image.
+
+64
+00:07:56.820 --> 00:07:57.870
+P8: You can pan.
+
+65
+00:08:00.270 --> 00:08:02.160
+P8: Okay, so for navigating the map.
+
+66
+00:08:03.570 --> 00:08:04.650
+P8: box select.
+
+67
+00:08:05.670 --> 00:08:07.050
+P8: Okay, so you can.
+
+68
+00:08:08.400 --> 00:08:10.230
+P8: select all this is really cool.
+
+69
+00:08:11.340 --> 00:08:14.130
+P8: Because select sections of the map that you're interested in.
+
+70
+00:08:20.250 --> 00:08:21.120
+P8: less so.
+
+71
+00:08:22.350 --> 00:08:25.830
+P8: select click it and see what happens.
+
+72
+00:08:32.910 --> 00:08:40.590
+P8: Okay, it seems to all care it's less triangular I mean Celeste rectangular.
+
+73
+00:08:42.240 --> 00:08:46.980
+P8: So you can be more selective the map is not okay three.
+
+74
+00:08:49.980 --> 00:08:55.470
+P8: Okay, gives you more control, but we chose a counties you interested in.
+
+75
+00:08:59.250 --> 00:08:59.610
+P8: Okay.
+
+76
+00:09:05.430 --> 00:09:06.360
+P8: Well that's really cool.
+
+77
+00:09:08.880 --> 00:09:14.610
+P8: And then you've got the zone mean she's swimming in something art.
+
+78
+00:09:15.690 --> 00:09:17.790
+P8: And then you got reset view.
+
+79
+00:09:23.820 --> 00:09:26.280
+P8: Okay recent you texted back to the whole night.
+
+80
+00:09:36.570 --> 00:09:39.180
+MODERATOR: So, can you tell me what the data comes from.
+
+81
+00:09:43.950 --> 00:09:44.940
+P8: So.
+
+82
+00:09:46.590 --> 00:09:52.590
+P8: This was when I made the query I said anchor vasculitis island.
+
+83
+00:09:54.420 --> 00:09:55.980
+P8: So what I.
+
+84
+00:09:58.230 --> 00:10:04.620
+P8: assumed this corresponds this aggregated data by region.
+
+85
+00:10:06.330 --> 00:10:10.830
+P8: And it refers to aggregated pollution.
+
+86
+00:10:12.030 --> 00:10:12.900
+P8: levels.
+
+87
+00:10:14.040 --> 00:10:14.910
+P8: And the weather.
+
+88
+00:10:15.990 --> 00:10:26.640
+P8: measurements for that region, what a query was anything specific to time, so the time is 2020 so.
+
+89
+00:10:27.480 --> 00:10:31.590
+MODERATOR: But you you haven't gotten anything, yet this is the home view.
+
+90
+00:10:32.160 --> 00:10:33.150
+P8: Okay okay.
+
+91
+00:10:33.480 --> 00:10:43.230
+MODERATOR: And I wanted to ask you, so in task one bears and once you feel you understand where the data comes from so what's the data source of weather pollution and iris on data.
+
+92
+00:10:48.060 --> 00:10:49.710
+P8: Oh that's a good question.
+
+93
+00:11:07.020 --> 00:11:08.700
+MODERATOR: Tell me, what are these data control.
+
+94
+00:11:09.900 --> 00:11:14.430
+P8: So the weather data seems to come from the Irish which your logical.
+
+95
+00:11:14.610 --> 00:11:15.960
+MODERATOR: That that's.
+
+96
+00:11:17.070 --> 00:11:17.610
+P8: Okay.
+
+97
+00:11:19.560 --> 00:11:21.480
+P8: Sorry i'm just probably terrible.
+
+98
+00:11:21.930 --> 00:11:23.730
+MODERATOR: structure it's fine it's fine it's fine.
+
+99
+00:11:26.520 --> 00:11:29.490
+P8: The pollution seems to be coming from.
+
+100
+00:11:34.560 --> 00:11:36.900
+P8: The Environmental Protection Agency.
+
+101
+00:11:37.440 --> 00:11:37.830
+MODERATOR: Okay.
+
+102
+00:11:38.100 --> 00:11:44.430
+P8: She seems to be specific, for island in this case because it's islands environment.
+
+103
+00:11:45.060 --> 00:11:45.420
+Okay.
+
+104
+00:11:46.470 --> 00:11:49.470
+MODERATOR: it's fine it's fine you can go to the next task.
+
+105
+00:11:50.880 --> 00:12:02.490
+P8: can stop the next task, submit a query using the input options available in the query tab on the Left non most panel.
+
+106
+00:12:03.330 --> 00:12:17.640
+P8: systematic way, using an input options available the query tab the Left last panel, while you're selecting the query options, please explain a lot specific choices that you make it you make choices, as you make choices.
+
+107
+00:12:18.900 --> 00:12:26.310
+P8: new ones will become available for you to select once you reach the end, please click submit button once.
+
+108
+00:12:27.720 --> 00:12:38.400
+P8: which will be available invalid inputs are being selected you'll be done when a new tab name q1 is displayed on the main panel the dashboard.
+
+109
+00:12:39.510 --> 00:12:40.830
+P8: Please only select one.
+
+110
+00:12:45.240 --> 00:12:47.910
+P8: So the seems straightforward.
+
+111
+00:12:53.790 --> 00:12:57.570
+P8: So we've got the query here on the Left instructions was.
+
+112
+00:12:59.820 --> 00:13:09.750
+P8: submitted queries got top rate diseases that i'm interested in this case i'm just going to take this away.
+
+113
+00:13:12.690 --> 00:13:23.400
+P8: Suddenly saw a look looks like only have ankle vasculitis island is the only rare disease options i'm going to take that input they've entered interest.
+
+114
+00:13:25.590 --> 00:13:33.900
+P8: In this case, this is referred to they're just going to click in the information, but to see what they.
+
+115
+00:13:35.850 --> 00:13:44.340
+P8: Act vasculitis was is the pathological confirmation treated with immunosuppression escalation and cynical responses same.
+
+116
+00:13:46.530 --> 00:13:49.920
+P8: Okay, so somebody was active vasculitis.
+
+117
+00:13:51.660 --> 00:13:56.340
+P8: If he's still pathological confirmation that's been confirmed by through okay.
+
+118
+00:13:57.660 --> 00:14:01.620
+P8: treated with it's been treated with immunosuppression.
+
+119
+00:14:02.790 --> 00:14:04.500
+P8: And then escalate it.
+
+120
+00:14:05.790 --> 00:14:15.120
+P8: To be treated for clinical response Okay, so the high probability set to active strathclyde is supported by suggestive clinical features by chemistry.
+
+121
+00:14:15.570 --> 00:14:28.290
+P8: c reactive protein, creating a new area, you can radiological investigation treated with immunosuppression escalation and clinical response, the same, but without is logical confirmation.
+
+122
+00:14:29.430 --> 00:14:36.960
+P8: Active possible active vasculitis on physician assessment, but limited supporting laboratory logical.
+
+123
+00:14:37.320 --> 00:14:40.590
+P8: To do personal aspirations okay that's really nice.
+
+124
+00:14:42.420 --> 00:14:49.830
+P8: So a flare can be divided into three category definite option high probability and possible.
+
+125
+00:14:52.470 --> 00:15:05.790
+P8: So i'm just going to click and see what happens here Okay, then you have to choose whether you're interested in those who've had either definite high probability possible or none.
+
+126
+00:15:08.790 --> 00:15:10.770
+P8: Okay that's that's really interesting.
+
+127
+00:15:13.500 --> 00:15:16.080
+P8: Someone choose okay.
+
+128
+00:15:17.460 --> 00:15:25.980
+P8: Just kind of click away the information, so it gives you as as what seems to be a.
+
+129
+00:15:27.210 --> 00:15:30.870
+P8: An event of interest for date.
+
+130
+00:15:32.640 --> 00:15:38.010
+P8: So you got a lot allocation of interests, which is.
+
+131
+00:15:39.060 --> 00:15:39.960
+P8: This case.
+
+132
+00:15:43.380 --> 00:15:45.120
+P8: i'm just going to click this away.
+
+133
+00:15:46.320 --> 00:15:47.160
+P8: And then some.
+
+134
+00:15:58.260 --> 00:16:04.410
+P8: Okay i'm just gonna ignore the map for now, so you got the location of interest Kevin now and then you have.
+
+135
+00:16:05.400 --> 00:16:23.370
+P8: An event date, then you got the different ones now okay so within each location you got different day event dates just humor first two different people can Okay, so you can get to see just the raw data.
+
+136
+00:16:25.200 --> 00:16:26.730
+P8: Okay, so.
+
+137
+00:16:27.750 --> 00:16:30.000
+P8: i'm gonna ask click.
+
+138
+00:16:31.380 --> 00:16:35.790
+P8: i'm just going to click one other option high probability see what happens.
+
+139
+00:16:39.240 --> 00:16:39.780
+P8: So.
+
+140
+00:16:41.490 --> 00:16:43.470
+P8: let's go back to the first one.
+
+141
+00:16:45.930 --> 00:16:49.320
+P8: Okay, so it seems like you get more more events.
+
+142
+00:16:54.690 --> 00:17:01.920
+P8: So it seems to combine the events for definite high probability.
+
+143
+00:17:05.220 --> 00:17:06.360
+P8: As more.
+
+144
+00:17:07.440 --> 00:17:11.550
+P8: event date seems to be appearing from the raw data.
+
+145
+00:17:15.480 --> 00:17:22.830
+P8: i'm assuming this can somewhat click these two and then go to the location of interests.
+
+146
+00:17:23.940 --> 00:17:43.140
+P8: and say i'm gonna go for Dublin we just choose safe just choose one for now okay so it's Nice that you can select multiple locations, so I go for coke and one more location say Galloway Galloway.
+
+147
+00:17:44.460 --> 00:17:56.370
+P8: So assume, so it gives you a country options island, so I wonder if you need to click this for can just gonna take it away so.
+
+148
+00:17:56.400 --> 00:17:59.160
+MODERATOR: Be understand why you click diagram.
+
+149
+00:18:01.980 --> 00:18:10.350
+P8: I assume, if you have multiple countries let's say you had the United Kingdom, you could flick maybe whales.
+
+150
+00:18:15.930 --> 00:18:19.140
+P8: But that's that's the assumption that i'm making.
+
+151
+00:18:20.130 --> 00:18:28.140
+MODERATOR: Okay, if it's not clear it's completely fine it's easy to do and do it just for you to understand afterwards.
+
+152
+00:18:28.680 --> 00:18:29.100
+Okay.
+
+153
+00:18:30.240 --> 00:18:35.580
+P8: Okay, something not click it and then pick a period.
+
+154
+00:18:38.130 --> 00:18:45.150
+P8: side seems to give you an option, starting from August 2020 so i'm just going to click first of.
+
+155
+00:18:48.780 --> 00:18:54.510
+P8: All so first of August 2020 and i'm gonna go.
+
+156
+00:18:55.920 --> 00:19:02.640
+P8: Until and say it gives you between August 2020.
+
+157
+00:19:04.230 --> 00:19:09.750
+P8: Okay, you can can choose any particular date so I assume we can go from the first of.
+
+158
+00:19:10.950 --> 00:19:13.680
+P8: So i'm just gonna go first of May.
+
+159
+00:19:15.720 --> 00:19:16.530
+P8: Until.
+
+160
+00:19:17.760 --> 00:19:20.970
+P8: and say i'm a God till November.
+
+161
+00:19:23.730 --> 00:19:24.900
+P8: November 20.
+
+162
+00:19:26.400 --> 00:19:31.170
+P8: Data source gives you an option to choose either the way, there are the pollution.
+
+163
+00:19:32.520 --> 00:19:38.880
+P8: So i'm just going to go pollution, because i'm always interested in that, and then give you the temporal units.
+
+164
+00:19:40.560 --> 00:19:49.260
+P8: Within information I like to click this information, the data will be combined and aggregated at the Foreign temporary unit okay.
+
+165
+00:19:50.490 --> 00:19:54.930
+P8: So i'm interested in let's say daily.
+
+166
+00:19:56.490 --> 00:20:02.880
+P8: let's see if it gives me an option to choose monthly so you can only choose one option at a time okay so that's good.
+
+167
+00:20:03.030 --> 00:20:03.660
+MODERATOR: So from.
+
+168
+00:20:03.870 --> 00:20:07.170
+MODERATOR: From data sources can choose one option or multiple options.
+
+169
+00:20:08.520 --> 00:20:18.570
+P8: Can just check okay that's nice oh that's really, really nice I saw efficient, so you can look at both the weather and pollution.
+
+170
+00:20:22.020 --> 00:20:30.990
+P8: So for temporary unity, can I choose one which makes sense because it doesn't make sense to combine different time points and then saw.
+
+171
+00:20:32.010 --> 00:20:38.070
+P8: spatial temporal aggregation Okay, either we want, whether you want to display the mean.
+
+172
+00:20:40.350 --> 00:20:52.710
+P8: see if you can choose the mean, so this is the aggregation you can choose between mean minimum and maximum so let's see if she can select Okay, so you can only select one, at a time.
+
+173
+00:20:55.140 --> 00:20:56.400
+P8: Just makes sense.
+
+174
+00:20:59.010 --> 00:21:12.180
+P8: yeah I was still be nice to have maybe if you can have all these three, but you can always query them separately, but yet keep in mind nicely efficient to maybe have all three.
+
+175
+00:21:13.830 --> 00:21:19.920
+P8: Okay, so i've gone through so i'm just going to review what querying.
+
+176
+00:21:22.230 --> 00:21:39.210
+P8: So i'm going to be querying rare diseases, so events on ankle vasculitis flare interested in the flares that what definite and knows what that were had a high probability.
+
+177
+00:21:40.470 --> 00:21:56.370
+P8: Then i'm looking at three locations of interests Kevin coke callaway and then i'm picking from first of May until the 28th of November, looking at the weather pollution, then looking at monthly mean.
+
+178
+00:21:58.680 --> 00:22:00.030
+P8: yeah for my query.
+
+179
+00:22:01.410 --> 00:22:02.070
+P8: So.
+
+180
+00:22:04.530 --> 00:22:06.480
+P8: I guess don't need to do anything with the map.
+
+181
+00:22:07.440 --> 00:22:09.780
+MODERATOR: You want to read them of the task to.
+
+182
+00:22:12.810 --> 00:22:16.290
+P8: me just have to submit.
+
+183
+00:22:17.700 --> 00:22:23.100
+P8: Account once you reach the end, please click submit the bad ones which will only be available.
+
+184
+00:22:26.100 --> 00:22:36.960
+P8: invalid inputs are selected you'll be done with a new tab name q1 is display on the main panel the dish dashboard so i'm going to submit.
+
+185
+00:22:43.980 --> 00:22:45.570
+P8: seems to be loading.
+
+186
+00:22:51.360 --> 00:22:53.490
+MODERATOR: You would start reading task created one.
+
+187
+00:22:54.720 --> 00:23:09.000
+P8: explore the two one tab in order to understand the table underneath there are two buttons that help you interpret the data table Jeff did you see click both buttons on top.
+
+188
+00:23:10.080 --> 00:23:21.090
+P8: Open query input summary and often color table description commenting allowed on the usefulness and clarity as explanations.
+
+189
+00:23:21.720 --> 00:23:32.490
+P8: then read the texts in the data sub tab and talk through the interpretation of the variables itself background colors read red and blue.
+
+190
+00:23:32.970 --> 00:23:46.350
+P8: Of the data table can select the columns that you want to display the toggle columns button that that you can you can scroll vertically or horizontally and use the page arrows on the right.
+
+191
+00:23:47.310 --> 00:23:54.990
+P8: Bottom corner to check the amount of data to query by scrolling you'll be done when you feel you have sufficient explore this table.
+
+192
+00:23:56.460 --> 00:23:58.710
+P8: So explore that she won tab.
+
+193
+00:23:59.940 --> 00:24:05.100
+P8: Which is so you've got a home to be called the comparative tab now I see.
+
+194
+00:24:06.540 --> 00:24:08.580
+P8: Instead of saying, she wanted sister she.
+
+195
+00:24:08.820 --> 00:24:11.190
+MODERATOR: Doing I think up boys really fast.
+
+196
+00:24:13.950 --> 00:24:14.820
+MODERATOR: But go ahead.
+
+197
+00:24:16.200 --> 00:24:16.770
+P8: Okay.
+
+198
+00:24:18.360 --> 00:24:23.490
+P8: um the case so it seems to have the tab open tears.
+
+199
+00:24:24.540 --> 00:24:25.560
+P8: instruction is.
+
+200
+00:24:27.360 --> 00:24:31.530
+P8: In order to understand the top tier one or two buttons that help you.
+
+201
+00:24:32.250 --> 00:24:33.210
+P8: interpret this data.
+
+202
+00:24:33.270 --> 00:24:36.510
+P8: table that you see click both buttons on top.
+
+203
+00:24:37.710 --> 00:24:39.810
+P8: Name open query input summary.
+
+204
+00:24:41.130 --> 00:24:46.290
+P8: OK, so the open query input some reason top and open color.
+
+205
+00:24:47.610 --> 00:24:53.430
+P8: table description okay so they're, the first thing that you see on top there in.
+
+206
+00:24:54.510 --> 00:24:54.810
+P8: Like.
+
+207
+00:24:56.190 --> 00:24:56.400
+P8: yeah.
+
+208
+00:24:57.720 --> 00:25:04.560
+P8: Green color and then commenting out loud on their usefulness and clarity is explanations so i'm just going to click one.
+
+209
+00:25:06.990 --> 00:25:17.100
+P8: So the open query input summary key underneath gives you two columns one that says options others says input.
+
+210
+00:25:18.180 --> 00:25:25.440
+P8: Under options, you have rare diseases event of interests location of interests and data.
+
+211
+00:25:26.520 --> 00:25:38.970
+P8: input, you have ankle vasculitis island definite type of opportunity Okay, then Okay, so that you selected so basic summary of what you requested, and then you can go to.
+
+212
+00:25:40.650 --> 00:25:49.590
+P8: The second part, which is OK period time be aggregation so provides a nice summary of what she requested.
+
+213
+00:25:50.880 --> 00:25:54.210
+P8: And then open qualitative description.
+
+214
+00:25:57.630 --> 00:26:25.560
+P8: So the table colors seems to be at the bottom of the of the open query input summary, so the table colors as a data table playground, so if the data is normally distributed 95% should be between minus two plus two Z score, which shows white summa white color.
+
+215
+00:26:27.300 --> 00:26:42.630
+P8: values that are above two are considered high and which are labeled with the red color values that are less and minus two, I know, and I labeled with a new color.
+
+216
+00:26:45.240 --> 00:26:47.910
+P8: So that was the first task that makes sense of the.
+
+217
+00:26:49.830 --> 00:26:51.810
+P8: two options that makes explanation.
+
+218
+00:26:53.670 --> 00:27:09.330
+P8: yeah seems to be good kinda just shows you what you requested, and there are no confusion, sometimes you maybe click things to fascinate don't cannot actually explains what were the different options.
+
+219
+00:27:13.710 --> 00:27:14.190
+P8: Oh yeah.
+
+220
+00:27:15.450 --> 00:27:18.840
+P8: Men gives you an explanation about the.
+
+221
+00:27:20.910 --> 00:27:22.530
+P8: The colors that you're going to see.
+
+222
+00:27:25.350 --> 00:27:28.740
+P8: OK, so the instructions go.
+
+223
+00:27:32.580 --> 00:27:45.480
+P8: commenting out loud their usefulness and clarity is explanation, then read the text in the data sub tab and so data subtype so data okay.
+
+224
+00:27:46.650 --> 00:27:48.990
+P8: Sometimes you can just below that.
+
+225
+00:27:50.310 --> 00:27:59.850
+P8: and talk through the interpretation of the variables and salt backgrounds stop background colors red and blue the data table, you can select columns that you want to display.
+
+226
+00:28:01.080 --> 00:28:03.480
+P8: With a total columns but.
+
+227
+00:28:05.160 --> 00:28:15.480
+P8: Not that you can scroll vertically and horizontally and use the page arrows and the right bottom corner to check amount of data required by scrolling you'll be done with school yes.
+
+228
+00:28:16.500 --> 00:28:26.610
+P8: Okay, so you got it okay so you've got the data sub tab at the bottom you then you've got the time series, then you got the box plot and you've got the Paula plot.
+
+229
+00:28:27.180 --> 00:28:41.700
+P8: The first instructions to go through the data's sub tabs the full name of the variable will sync with the universe appear when hovering over the headings of the data table for further information, please refer to the data source links in the home tab.
+
+230
+00:28:43.800 --> 00:28:49.440
+P8: For the please refresh the data sources link in the home tab Okay, the first the first.
+
+231
+00:28:50.130 --> 00:29:06.240
+P8: The first one tablet I was looking at which shows that the way the day Okay, the total columns button allows to select columns of interest and an export button to download the data csv file to your computer only the visible columns will be downloaded.
+
+232
+00:29:08.250 --> 00:29:08.790
+P8: Okay.
+
+233
+00:29:10.980 --> 00:29:14.370
+P8: So you got Togo column, which gives you.
+
+234
+00:29:15.420 --> 00:29:23.610
+P8: options of year time yeti month and it gives you the different okay pollution.
+
+235
+00:29:25.110 --> 00:29:28.290
+P8: There was a chicken you want to take the temperature.
+
+236
+00:29:31.260 --> 00:29:37.590
+P8: Okay it's just shows you what's in a table so she's and selected sam's can select.
+
+237
+00:29:39.060 --> 00:29:43.680
+P8: One of them same month okay disappears.
+
+238
+00:29:47.400 --> 00:29:52.170
+P8: And then comes back, we have selected okay that's very cool.
+
+239
+00:29:58.320 --> 00:30:04.710
+P8: So you've got the year 2020, then you got the month in numbers 567 to level.
+
+240
+00:30:05.880 --> 00:30:06.300
+P8: three.
+
+241
+00:30:09.270 --> 00:30:10.500
+P8: And then you got.
+
+242
+00:30:13.320 --> 00:30:14.880
+P8: Okay that's really cool.
+
+243
+00:30:19.200 --> 00:30:29.010
+P8: So you've got the numbers which the columns which white slightly light Gray okay so just a normal table.
+
+244
+00:30:31.590 --> 00:30:34.050
+P8: And then within each each column.
+
+245
+00:30:37.650 --> 00:30:39.330
+P8: Okay, you can order them.
+
+246
+00:30:40.770 --> 00:30:43.200
+P8: You can order them by higher low.
+
+247
+00:30:44.490 --> 00:30:46.680
+P8: And then it changes the table accordingly.
+
+248
+00:30:49.320 --> 00:30:53.820
+P8: Okay, so it makes sense to just order them a year and then a month.
+
+249
+00:30:54.840 --> 00:31:05.760
+P8: So, looking at 2020 may the PM 10 was 10.9 5.9 so can so forth.
+
+250
+00:31:07.080 --> 00:31:11.760
+P8: You can scroll to the right and left and see sun.
+
+251
+00:31:13.290 --> 00:31:37.140
+P8: So shine duration hours okay that's really cool so when you click on each column heading shows you the variable and shows you the description and the units that the song so and Satan does case some of these things done on wt SP is mean Ali wind speed in katy units.
+
+252
+00:31:38.490 --> 00:31:47.910
+P8: Then you got the msr mean sea level of pressure in each Pascal units okay you got VIP which is.
+
+253
+00:31:50.640 --> 00:31:57.960
+P8: vapor pressure okay that's really cool okay so provides description and the units.
+
+254
+00:31:59.670 --> 00:32:01.710
+P8: And then, if you go to.
+
+255
+00:32:02.910 --> 00:32:04.890
+P8: For example, to the bottom.
+
+256
+00:32:06.210 --> 00:32:14.250
+P8: you've got in November, the PM 10 levels in micro can cubic meters.
+
+257
+00:32:16.590 --> 00:32:19.260
+P8: You had above.
+
+258
+00:32:20.910 --> 00:32:23.940
+P8: Highland high values of above to.
+
+259
+00:32:24.990 --> 00:32:30.840
+P8: own some interesting so just trying to figure out why this one is labeled rates and others are not.
+
+260
+00:32:32.850 --> 00:32:33.900
+P8: So.
+
+261
+00:32:34.950 --> 00:32:40.470
+P8: His table background data is normally distributed 95% should be between.
+
+262
+00:32:41.790 --> 00:32:45.600
+P8: minus two sets of okay it's the status quo.
+
+263
+00:32:47.160 --> 00:32:48.600
+P8: And it's a tough one.
+
+264
+00:32:49.620 --> 00:32:51.270
+P8: So this refers to the.
+
+265
+00:32:52.350 --> 00:32:56.790
+P8: Whether there's a normal distribution or not.
+
+266
+00:32:58.200 --> 00:33:01.410
+P8: So values that are above to will show rate.
+
+267
+00:33:02.700 --> 00:33:03.750
+which indicates.
+
+268
+00:33:05.910 --> 00:33:07.050
+P8: Potentially.
+
+269
+00:33:08.640 --> 00:33:10.380
+P8: Okay valleys.
+
+270
+00:33:14.610 --> 00:33:17.820
+P8: which shows that says codes probably high.
+
+271
+00:33:20.850 --> 00:33:25.230
+P8: indicating maybe okay and indicating.
+
+272
+00:33:26.820 --> 00:33:32.340
+P8: That generally PM 10 was probably towards the high in November.
+
+273
+00:33:34.590 --> 00:33:37.050
+P8: So it's skewed towards the right basically.
+
+274
+00:33:39.060 --> 00:33:40.080
+P8: Okay that's.
+
+275
+00:33:41.130 --> 00:33:47.130
+P8: Actually doesn't refer to the value itself is just refers to was the direction of the of the design school.
+
+276
+00:33:48.540 --> 00:33:50.280
+P8: OK, so the instructions, then.
+
+277
+00:33:52.020 --> 00:33:55.470
+P8: I think the tables nicely structured.
+
+278
+00:33:56.640 --> 00:33:58.170
+P8: All the units I explained.
+
+279
+00:33:59.490 --> 00:34:04.980
+P8: Quite Nice, and then the last thing you can select the concert, you want to display.
+
+280
+00:34:06.270 --> 00:34:08.130
+P8: So i'm just going to try and export.
+
+281
+00:34:13.260 --> 00:34:17.610
+MODERATOR: You don't see it while you're exporting into my computer but i'm going to construct with second.
+
+282
+00:34:20.010 --> 00:34:20.490
+MODERATOR: Time.
+
+283
+00:34:22.080 --> 00:34:23.430
+P8: So export.
+
+284
+00:34:25.920 --> 00:34:29.910
+MODERATOR: Some don't don't click again because you're downloading this data into my computer.
+
+285
+00:34:30.690 --> 00:34:32.550
+MODERATOR: Okay, I was canceling it.
+
+286
+00:34:33.690 --> 00:34:34.920
+P8: i'm just gonna take once.
+
+287
+00:34:35.760 --> 00:34:40.980
+MODERATOR: No, no, no, no, like, if you like, you're loading data to my computer like you.
+
+288
+00:34:41.490 --> 00:34:44.220
+MODERATOR: there's a window pop up that says, what do you want this to be.
+
+289
+00:34:45.360 --> 00:34:49.470
+P8: OK OK, so I basically when they export.
+
+290
+00:34:50.490 --> 00:34:52.800
+P8: Given this toggle column.
+
+291
+00:34:54.180 --> 00:34:56.010
+P8: It exports everything that I said.
+
+292
+00:34:57.240 --> 00:34:57.570
+P8: Okay.
+
+293
+00:34:58.680 --> 00:35:05.130
+P8: let's just realize okay so i'm gonna feel like I understand that parts.
+
+294
+00:35:05.160 --> 00:35:06.090
+MODERATOR: Yes, perfect.
+
+295
+00:35:07.050 --> 00:35:15.600
+P8: So the next instruction is to explore the other tabs beside the data table data tab or three plots.
+
+296
+00:35:16.740 --> 00:35:24.150
+P8: Time series box plot and polo plots interactive features for different purposes, please use those features for each plot.
+
+297
+00:35:24.540 --> 00:35:37.020
+P8: One mentioning the usefulness of each one in understanding the environmental data will be done when you have you explored through the interactive features for each of the three plot taps.
+
+298
+00:35:38.280 --> 00:35:43.290
+P8: Okay, so we're going to explore the other tabs some start with time series.
+
+299
+00:35:44.550 --> 00:36:01.650
+P8: The visualization is interactive plot zoom cover single multiple pan and download this PNG they can click the variable to the select to do select and Double Click to select only.
+
+300
+00:36:02.970 --> 00:36:10.110
+P8: Rain slide I click and drag to select the period of interest on the bottom plot.
+
+301
+00:36:11.670 --> 00:36:14.070
+P8: So i'm just gonna play around and see.
+
+302
+00:36:23.730 --> 00:36:25.020
+P8: Okay, so i'm just going to start.
+
+303
+00:36:26.580 --> 00:36:30.270
+P8: So you got to can download the plotters the picture.
+
+304
+00:36:31.380 --> 00:36:34.140
+P8: You can so mean you can pan.
+
+305
+00:36:35.250 --> 00:36:45.000
+P8: You can zoom in and out, you can auto scale, you can reset axes so i'm just gonna start sitting with.
+
+306
+00:36:46.800 --> 00:36:48.780
+P8: You can toggle spike lines.
+
+307
+00:36:50.460 --> 00:36:51.150
+P8: To sister.
+
+308
+00:36:55.980 --> 00:37:09.300
+P8: And then gives you that other option that you saw compare data on hover and then compare that okay so that's the one show closest state and hover okay.
+
+309
+00:37:10.680 --> 00:37:18.600
+P8: So I see the month of the year that I selected and I see the values okay that's that's interesting so.
+
+310
+00:37:22.650 --> 00:37:23.160
+P8: So when you.
+
+311
+00:37:24.480 --> 00:37:27.000
+P8: When you go to just going to play around.
+
+312
+00:37:28.740 --> 00:37:32.310
+P8: So when you click around July it gives you all the values.
+
+313
+00:37:33.510 --> 00:37:47.340
+P8: For the different variables that you see, so it gives you the color codes you got the rate, which is the variable msl it tells you the first of July and then values, not point five same thing temperature.
+
+314
+00:37:48.960 --> 00:37:56.730
+P8: Men and paper you got these values, not point eight 1.81 would.
+
+315
+00:37:57.780 --> 00:38:00.390
+P8: Be not counted three so on.
+
+316
+00:38:02.520 --> 00:38:05.670
+P8: So we just assume refers to the actual units of the.
+
+317
+00:38:09.750 --> 00:38:15.270
+P8: Actually, so these numbers might not correspond to the actual units.
+
+318
+00:38:17.730 --> 00:38:18.630
+P8: Or does it.
+
+319
+00:38:21.210 --> 00:38:23.400
+P8: may be true, first of this call.
+
+320
+00:38:24.030 --> 00:38:27.240
+P8: Maybe i'm assuming this refers to this is called because.
+
+321
+00:38:27.240 --> 00:38:32.100
+P8: This is the two units can vary around July it's much more warm okay.
+
+322
+00:38:35.040 --> 00:38:41.790
+P8: let's interesting OK, so the value here actually refers to the Cisco as previously discuss okay.
+
+323
+00:38:44.520 --> 00:38:46.230
+P8: So, then you can.
+
+324
+00:38:47.670 --> 00:38:57.420
+P8: So the instructions you got below that you got date time which is sort of squeezed in smaller craft at the bottom.
+
+325
+00:38:58.620 --> 00:38:59.100
+P8: Can.
+
+326
+00:39:00.510 --> 00:39:06.000
+P8: So interactive features for different please use those features for each product was mentioning the usefulness.
+
+327
+00:39:08.310 --> 00:39:08.850
+P8: yeah so.
+
+328
+00:39:10.590 --> 00:39:22.740
+P8: My day I mean yeah I can understand why it might have been nice to put it on us at school, because one of the ways to normalize right because all of these come different units.
+
+329
+00:39:24.060 --> 00:39:25.620
+P8: plotting them Allah says call.
+
+330
+00:39:27.960 --> 00:39:32.250
+P8: Just shows you how the sort of distribution.
+
+331
+00:39:34.170 --> 00:39:35.640
+P8: So you've got.
+
+332
+00:39:36.810 --> 00:39:48.120
+P8: For example, PM 10 which goes up and down, so it goes to chris's between May and June and sort of comes down Marcus and then.
+
+333
+00:39:50.280 --> 00:39:51.660
+P8: It goes back up.
+
+334
+00:39:53.250 --> 00:39:56.070
+P8: Can you got so i'm just going to try and click.
+
+335
+00:40:01.170 --> 00:40:03.660
+P8: So when you click the variable.
+
+336
+00:40:05.220 --> 00:40:16.830
+P8: Okay, so i'm just gonna see if I can remove and assuming you click on it, you is sort of removing it to the graph so you can click one by one, so you got rain.
+
+337
+00:40:18.150 --> 00:40:26.940
+P8: And I still got a so too, so i'm going to try and move it okay that's cool that's what I once i've been able to few one, at a time.
+
+338
+00:40:28.380 --> 00:40:30.900
+P8: So you got Karen goes up.
+
+339
+00:40:32.490 --> 00:40:35.250
+P8: With the discourse relatively low.
+
+340
+00:40:36.510 --> 00:40:41.610
+P8: stable and and cost up to July August September goes down and comes back up.
+
+341
+00:40:45.420 --> 00:40:48.330
+P8: And let's assume this refers to the rainfall.
+
+342
+00:40:52.110 --> 00:40:55.530
+P8: So I might just pop back so i'm taking along this.
+
+343
+00:40:58.410 --> 00:41:04.800
+P8: surrender first to them precipitation amount in millimeters something okay.
+
+344
+00:41:07.650 --> 00:41:09.210
+P8: Okay, so you can do the same.
+
+345
+00:41:11.010 --> 00:41:18.810
+P8: Okay that's all that's just what I wanted to see, and then you can move that and then click let's say 10.
+
+346
+00:41:21.300 --> 00:41:28.710
+P8: Okay sort of course in winter and then goes down on someone picks up again.
+
+347
+00:41:29.790 --> 00:41:32.910
+P8: In autumn back went OK.
+
+348
+00:41:36.480 --> 00:41:37.890
+P8: OK, I expected that.
+
+349
+00:41:39.960 --> 00:41:44.250
+P8: PM 2.5 follows the same pets and expect that so to.
+
+350
+00:41:46.200 --> 00:41:48.750
+P8: All goes up from.
+
+351
+00:41:50.040 --> 00:41:53.010
+P8: Throughout summer comes down.
+
+352
+00:41:54.450 --> 00:41:57.480
+P8: To okay that's very cool to seeing.
+
+353
+00:42:01.380 --> 00:42:02.730
+P8: Just okay.
+
+354
+00:42:03.930 --> 00:42:04.950
+P8: Anyhow, so.
+
+355
+00:42:06.750 --> 00:42:08.220
+P8: You can get to the last interview.
+
+356
+00:42:09.810 --> 00:42:11.850
+P8: So i'm just going to go the box plots.
+
+357
+00:42:15.270 --> 00:42:21.540
+P8: So it shows the value, which is also serves as it's called stone and then it shows you the different variables.
+
+358
+00:42:21.810 --> 00:42:25.380
+P8: yeah and then it shows you the median.
+
+359
+00:42:26.550 --> 00:42:28.530
+P8: Churches terms the median score.
+
+360
+00:42:29.760 --> 00:42:32.790
+P8: Local town apricots and the minimum.
+
+361
+00:42:34.170 --> 00:42:37.410
+P8: So you can see something like.
+
+362
+00:42:41.220 --> 00:42:42.090
+P8: The rain.
+
+363
+00:42:43.500 --> 00:42:45.600
+P8: Just have these two extremes.
+
+364
+00:42:48.870 --> 00:42:49.290
+P8: So.
+
+365
+00:42:50.580 --> 00:42:53.520
+P8: tend to be similar distribution.
+
+366
+00:42:55.380 --> 00:42:58.590
+P8: And to SF to test is.
+
+367
+00:42:59.940 --> 00:43:24.210
+P8: sort of similar million okay so, at least for the box plots bouncing aqr divided by the medium and the Turkey style whiskers extend to a maximum of 1.5 times I cured beyond the box user ization is interactive plot zoom hovers think of my pen download is okay, so you can download this.
+
+368
+00:43:27.750 --> 00:43:30.870
+MODERATOR: Okay, I want to concentrate on local time.
+
+369
+00:43:32.640 --> 00:43:33.930
+P8: So the polar plot.
+
+370
+00:43:35.700 --> 00:43:44.880
+P8: scatter plot the plot complex variable wind dependency so that's the description, the radius length indicates the one speed and a decrease.
+
+371
+00:43:45.900 --> 00:43:49.380
+P8: The one direction, there was a realization is interactive.
+
+372
+00:43:50.970 --> 00:43:52.110
+P8: So you can.
+
+373
+00:43:53.610 --> 00:43:59.100
+P8: plot so zoom hover same thing and download his picture so i'm just going to select.
+
+374
+00:44:00.180 --> 00:44:03.510
+P8: who's gonna earn interest so, for example.
+
+375
+00:44:07.290 --> 00:44:08.490
+P8: Okay, so.
+
+376
+00:44:14.580 --> 00:44:17.430
+P8: let's suppose the case so you got this blue thing that.
+
+377
+00:44:18.120 --> 00:44:19.470
+MODERATOR: that's for me that's.
+
+378
+00:44:20.220 --> 00:44:22.200
+MODERATOR: A 10 maybe try nobody.
+
+379
+00:44:23.670 --> 00:44:24.330
+P8: Can.
+
+380
+00:44:26.130 --> 00:44:33.120
+P8: Can I can just going to play around see if I can put to the same time Okay, so you can I look at one of the time.
+
+381
+00:44:33.600 --> 00:44:43.770
+MODERATOR: In there is an error, and I think it's because you pick twice when you quit so i'm going to look at it afterwards, if you want to go to the next task or try, maybe temperature.
+
+382
+00:44:44.640 --> 00:44:45.480
+MODERATOR: Okay, but.
+
+383
+00:44:48.630 --> 00:44:51.240
+P8: temperatures, can I be some way.
+
+384
+00:44:57.090 --> 00:45:00.480
+P8: Just scoring too fast Okay, I was gonna say temperature.
+
+385
+00:45:01.530 --> 00:45:06.630
+MODERATOR: yeah we'll fix it i'm Sorry, I think it was you click on it, thank you for discovering that, though.
+
+386
+00:45:07.590 --> 00:45:08.010
+Okay.
+
+387
+00:45:11.400 --> 00:45:12.750
+MODERATOR: You want to move to the next task.
+
+388
+00:45:13.080 --> 00:45:40.980
+P8: So the next task is creates to new queries after you have submitted them following the same instructions that to you'll see q2 q3 ethnic tabs on the main panel Now you can compare them prepare to tab is greed greed in Texas tab and select number of groups, you wish to lag and click.
+
+389
+00:45:42.060 --> 00:45:51.990
+P8: On click to generate groups and new input spoke will appear underneath our NGO queries into groups and check on clip to plot groups.
+
+390
+00:45:52.950 --> 00:46:03.510
+P8: Now, new sub tabs will have peer with three different visualizations piece mentioned out loud the usefulness of each one in a similar manner to SIP step three.
+
+391
+00:46:05.250 --> 00:46:09.150
+P8: Okay, I saw student can just go back to new queries.
+
+392
+00:46:10.320 --> 00:46:12.030
+P8: So i'm gonna come back up here.
+
+393
+00:46:17.220 --> 00:46:17.790
+P8: So.
+
+394
+00:46:19.680 --> 00:46:25.650
+P8: suck can only look at island somewhere else, then switch around and say.
+
+395
+00:46:29.040 --> 00:46:31.590
+P8: Look at high probability, this is.
+
+396
+00:46:33.840 --> 00:46:36.030
+P8: i'm just going to look at high probability for now.
+
+397
+00:46:38.130 --> 00:46:39.360
+P8: And then i'm going to go.
+
+398
+00:46:43.320 --> 00:46:44.460
+P8: location.
+
+399
+00:46:45.960 --> 00:46:49.710
+P8: Where choose different locations i'm going to go some of these bottom ones.
+
+400
+00:46:50.730 --> 00:46:54.540
+P8: Like squads and i'm not going to.
+
+401
+00:46:58.410 --> 00:46:59.010
+P8: default.
+
+402
+00:47:00.600 --> 00:47:01.110
+P8: click.
+
+403
+00:47:03.060 --> 00:47:06.960
+P8: from Ireland, and then click.
+
+404
+00:47:08.040 --> 00:47:09.210
+P8: towards earlier.
+
+405
+00:47:11.280 --> 00:47:11.850
+P8: say.
+
+406
+00:47:13.740 --> 00:47:17.640
+P8: January 2020 and then to.
+
+407
+00:47:18.870 --> 00:47:19.920
+P8: end of April.
+
+408
+00:47:30.150 --> 00:47:31.290
+P8: screen say.
+
+409
+00:47:32.790 --> 00:47:33.600
+P8: Serious.
+
+410
+00:47:35.100 --> 00:47:39.780
+P8: i'm gonna keep the same look at the way there and pollution i'm gonna look at.
+
+411
+00:47:41.640 --> 00:47:43.950
+P8: Look at the mean and then compared to the.
+
+412
+00:47:46.800 --> 00:47:49.560
+P8: Minimum and then see if I can choose.
+
+413
+00:47:52.080 --> 00:47:54.720
+P8: So okay just need to decide.
+
+414
+00:47:57.090 --> 00:48:02.370
+P8: yeah so i'm just gonna look at the minimum for now and then submit that is a query.
+
+415
+00:48:09.480 --> 00:48:17.070
+MODERATOR: and explain me, what are you selected ashram this time if you don't have a reason it's fine just for me to understand you know thought.
+
+416
+00:48:22.170 --> 00:48:22.830
+P8: yeah.
+
+417
+00:48:24.150 --> 00:48:25.530
+MODERATOR: If not it's fine like.
+
+418
+00:48:26.790 --> 00:48:27.210
+P8: yeah.
+
+419
+00:48:33.720 --> 00:48:37.110
+P8: yeah I mean I guess it's like this, but just hanging.
+
+420
+00:48:38.340 --> 00:48:40.380
+MODERATOR: Now I need to improve that I need to prove that.
+
+421
+00:48:40.470 --> 00:48:41.520
+P8: yeah so it's just.
+
+422
+00:48:41.730 --> 00:48:44.520
+MODERATOR: it's actually all data for the all Ireland.
+
+423
+00:48:45.600 --> 00:48:46.860
+P8: Oh, really.
+
+424
+00:48:48.090 --> 00:48:48.840
+MODERATOR: that's not taken me.
+
+425
+00:48:50.040 --> 00:48:51.210
+MODERATOR: What I need to improve that.
+
+426
+00:48:51.810 --> 00:48:52.470
+P8: Okay, just.
+
+427
+00:48:53.640 --> 00:48:57.120
+P8: yeah just didn't seem clear yeah.
+
+428
+00:48:58.530 --> 00:49:01.530
+P8: So it's tempting when you see a button just mine.
+
+429
+00:49:04.080 --> 00:49:08.070
+P8: Is a void that or you just want to kick it okay so.
+
+430
+00:49:08.100 --> 00:49:09.540
+P8: Then Q.
+
+431
+00:49:10.740 --> 00:49:22.770
+P8: So i've got q3 so initially I had q2 some yet another query so i'm still thinking vasculitis island on Monday now take this away event of interest i'm interested in.
+
+432
+00:49:24.090 --> 00:49:29.670
+P8: Just those ones that are possible, just so I could do a comparison between.
+
+433
+00:49:31.860 --> 00:49:33.000
+P8: The no events.
+
+434
+00:49:34.050 --> 00:49:34.770
+P8: events.
+
+435
+00:49:38.340 --> 00:49:39.600
+P8: So i'm gonna go no event.
+
+436
+00:49:43.380 --> 00:49:44.490
+P8: And then i'm going to.
+
+437
+00:49:45.810 --> 00:49:49.470
+P8: Keep the same locations of interest.
+
+438
+00:49:52.020 --> 00:49:56.160
+P8: The might not be any events and see so actually.
+
+439
+00:50:00.870 --> 00:50:15.630
+P8: So the events of days, it seems not have updated on my doing it wrong i'm just something this okay so okay okay okay kfc so i'm just click OK OK, I see now not so.
+
+440
+00:50:17.700 --> 00:50:19.350
+P8: It seems to show everything.
+
+441
+00:50:21.780 --> 00:50:22.290
+P8: Okay.
+
+442
+00:50:24.510 --> 00:50:34.680
+P8: So can tell whether the event dates refer to the specific location okay i'm just click the occasion of interest, so I had said, the last two i'd said.
+
+443
+00:50:36.150 --> 00:50:40.050
+P8: looks for and and I had said something what to Fort.
+
+444
+00:50:43.770 --> 00:50:46.380
+P8: So it does not seem clear that they vent.
+
+445
+00:50:47.730 --> 00:50:48.180
+MODERATOR: Okay.
+
+446
+00:50:48.570 --> 00:50:53.160
+P8: Death of interest, a specific to these locations OK, so the road data.
+
+447
+00:50:55.470 --> 00:50:59.520
+P8: doesn't seem specific so i'm just gonna continue to the dates range.
+
+448
+00:51:00.960 --> 00:51:06.300
+P8: And then pick something towards the end of the year and say go for.
+
+449
+00:51:09.180 --> 00:51:10.170
+P8: Go back.
+
+450
+00:51:12.690 --> 00:51:15.000
+P8: or start dates yeah something let's say.
+
+451
+00:51:16.410 --> 00:51:19.350
+P8: Start dates say first of August.
+
+452
+00:51:21.420 --> 00:51:23.010
+P8: And then end date.
+
+453
+00:51:24.270 --> 00:51:30.570
+P8: December 31 30th.
+
+454
+00:51:31.710 --> 00:51:39.000
+P8: can then keep the weather so as data source pollution temporary and let's not keep the minimum just.
+
+455
+00:51:41.610 --> 00:51:42.390
+P8: Compare.
+
+456
+00:51:43.440 --> 00:51:44.820
+P8: Women for now.
+
+457
+00:51:48.030 --> 00:51:58.650
+P8: It makes sense to compare like spatial temporal aggregation you know, maybe that has similar sonic keep the minimum since I selected.
+
+458
+00:51:58.650 --> 00:52:00.420
+P8: That query.
+
+459
+00:52:05.250 --> 00:52:07.230
+P8: A hot in summer what's.
+
+460
+00:52:08.880 --> 00:52:09.540
+P8: That it's okay.
+
+461
+00:52:18.300 --> 00:52:28.680
+P8: create two new queries have done that read the text in this tab and select the number of groups, you wish to make then click on the click generate groups in you.
+
+462
+00:52:30.030 --> 00:52:37.950
+P8: and your inputs PR group OK, so now got a check to us anyway, so should be fine so now i've got.
+
+463
+00:52:39.330 --> 00:52:44.010
+P8: To to Q i'm sorry to keep five.
+
+464
+00:52:45.660 --> 00:52:46.710
+MODERATOR: it's happened again.
+
+465
+00:52:48.360 --> 00:52:48.900
+P8: yeah.
+
+466
+00:52:49.800 --> 00:52:53.520
+P8: there's a delay and then you're not sure whether you burning time it's fine it's fine.
+
+467
+00:52:55.530 --> 00:53:00.420
+P8: So i've got now to in your queries that as sitting next to each other.
+
+468
+00:53:01.950 --> 00:53:14.520
+P8: And all show the same features i've seen other query input summary they at times these products, so what I want to do is compare the groups so.
+
+469
+00:53:15.690 --> 00:53:27.510
+P8: Now you can compare them in the competitive tab read the text of a console need to find the comparative tab okay so called home comparative and then you've got your in your queries.
+
+470
+00:53:27.930 --> 00:53:40.260
+P8: Like take the comparative great data previously submitted in the session can compare specifically or we can combine these queries and groups with the multiple selection inputs potentially increase the signal to noise ratio.
+
+471
+00:53:42.090 --> 00:53:42.540
+P8: Okay.
+
+472
+00:53:44.160 --> 00:54:00.450
+P8: One decide the number of groups that you wish to compare select the queries that you want to group explore each environment variable the different plots queries are grouped by computing the mean per unit in time that time series parked in the class classroom training.
+
+473
+00:54:02.400 --> 00:54:11.160
+P8: ting ting the values in the box in this plot, therefore, the time series pod has limitation when comparing queries with different tangents.
+
+474
+00:54:12.930 --> 00:54:14.160
+P8: OK, I see.
+
+475
+00:54:20.760 --> 00:54:30.150
+P8: So the time series plots has a limitation of comparing queries with different time units, so in my case, I chose different time units.
+
+476
+00:54:32.580 --> 00:54:36.660
+P8: Okay, so let me just play around and see what are running to.
+
+477
+00:54:39.510 --> 00:54:46.590
+P8: So comparative tab read the texts select a number of groups, you wish to make someone say to for now.
+
+478
+00:54:49.680 --> 00:54:54.330
+P8: And then click on click generate groups so.
+
+479
+00:54:55.350 --> 00:55:04.950
+P8: click generate groups, and then the near impossible group will appear underneath okay so i'm gonna click see what happens.
+
+480
+00:55:08.070 --> 00:55:19.050
+P8: And then so takes you then click George can you inputs PR group or piano nice arrangement your queries in the groups and click on click plot groups okay so.
+
+481
+00:55:21.570 --> 00:55:25.950
+MODERATOR: you're done so, the one on the four out of the ones that you've ever played so just.
+
+482
+00:55:30.330 --> 00:55:31.680
+P8: So i'll go.
+
+483
+00:55:32.730 --> 00:55:33.300
+P8: three.
+
+484
+00:55:34.980 --> 00:55:36.870
+P8: And then cube five.
+
+485
+00:55:40.860 --> 00:55:41.250
+P8: Okay.
+
+486
+00:55:42.300 --> 00:55:43.920
+P8: Then click to generate.
+
+487
+00:55:46.620 --> 00:55:48.000
+P8: click to generate group.
+
+488
+00:55:49.080 --> 00:55:54.090
+P8: inputs PR group will appear underneath okay click to generate group.
+
+489
+00:55:54.180 --> 00:55:54.720
+is just.
+
+490
+00:55:56.070 --> 00:55:57.330
+P8: Did I go too fast.
+
+491
+00:55:57.900 --> 00:56:00.930
+MODERATOR: You you just need that the spot before but okay.
+
+492
+00:56:01.950 --> 00:56:04.650
+P8: Ah, OK sorry I went back okay.
+
+493
+00:56:05.670 --> 00:56:06.450
+P8: Sorry i'm terrible.
+
+494
+00:56:06.570 --> 00:56:09.900
+MODERATOR: With following line it's completely fine okay.
+
+495
+00:56:14.580 --> 00:56:15.960
+P8: Perfect got this one.
+
+496
+00:56:20.070 --> 00:56:22.590
+P8: Okay it's good to five quickly.
+
+497
+00:56:30.870 --> 00:56:31.470
+P8: Okay, so.
+
+498
+00:56:33.330 --> 00:56:48.030
+P8: Generally infrastructure group will arrange occurs in the group's I click on fake to plot kreutz okay click to plot groups nothing now new sub tabs will have appeared with three different visualization.
+
+499
+00:56:49.350 --> 00:56:52.230
+P8: Please mention out your usefulness of each okay.
+
+500
+00:56:59.760 --> 00:57:06.270
+P8: Okay, so you go back to the time the plots option, and you can select.
+
+501
+00:57:07.350 --> 00:57:14.760
+P8: variables of interest i'm just gonna okay so same thing that you've had before so i'm just going to start with temperature.
+
+502
+00:57:22.590 --> 00:57:23.130
+P8: Can.
+
+503
+00:57:26.310 --> 00:57:31.260
+P8: sometimes appear with three different option so under time series.
+
+504
+00:57:31.980 --> 00:57:39.630
+MODERATOR: You what an arrow right there and it's because of their double clicking before what I will try to swap it out, if you can move on and go to the box one.
+
+505
+00:57:40.140 --> 00:57:40.530
+OK.
+
+506
+00:57:41.790 --> 00:57:48.960
+P8: So the box so give you select favor to convey a groups and then select restricted temperature.
+
+507
+00:57:52.110 --> 00:57:52.590
+MODERATOR: yeah.
+
+508
+00:57:54.570 --> 00:57:57.060
+P8: Okay, I mean i'm happy to.
+
+509
+00:57:58.110 --> 00:58:00.090
+P8: To read to the queries.
+
+510
+00:58:00.120 --> 00:58:02.670
+MODERATOR: No, no it's fine it's fine keep going with the experiment.
+
+511
+00:58:03.360 --> 00:58:03.690
+Okay.
+
+512
+00:58:04.800 --> 00:58:10.740
+P8: select variable and see what happens with the distance is going to click the temperature.
+
+513
+00:58:14.370 --> 00:58:14.730
+P8: Okay.
+
+514
+00:58:15.120 --> 00:58:18.000
+MODERATOR: it's fine it's keep moving keep moving okay.
+
+515
+00:58:20.850 --> 00:58:21.420
+P8: So.
+
+516
+00:58:22.680 --> 00:58:35.520
+P8: Talks number six choose one of the queries to export so you can choose between query 123 send like a square 235 and good.
+
+517
+00:58:36.960 --> 00:58:37.740
+P8: That tab.
+
+518
+00:58:40.230 --> 00:58:51.450
+P8: click the export from the data table to download data says finally open the zip download tab on the left side panel click.
+
+519
+00:58:51.870 --> 00:59:03.390
+P8: On Donald said, with all the data tables to download data for queries submitted during the session as a zip file, it will be done will understanding, where the status told.
+
+520
+00:59:04.710 --> 00:59:09.120
+P8: So so choose one of the queries exports.
+
+521
+00:59:10.230 --> 00:59:15.450
+P8: So you can choose one of them okay Simon just the fucking filing.
+
+522
+00:59:21.030 --> 00:59:23.460
+P8: So i'm just gonna choose this one.
+
+523
+00:59:26.160 --> 00:59:27.570
+P8: got to that.
+
+524
+00:59:29.610 --> 00:59:38.970
+P8: Okay click the export button from the data table to download it, so the data table should be.
+
+525
+00:59:40.200 --> 00:59:43.560
+P8: Under the sub tab at the quantum here.
+
+526
+00:59:46.140 --> 00:59:48.840
+P8: Sorry i'm just my connection is.
+
+527
+00:59:52.800 --> 00:59:58.860
+P8: Okay, so we're back on the table, which should be around here.
+
+528
+01:00:01.380 --> 01:00:09.030
+P8: And so i've got to go column on to explore all these variables just making sure they are they.
+
+529
+01:00:10.440 --> 01:00:11.850
+P8: Say export.
+
+530
+01:00:12.150 --> 01:00:13.410
+MODERATOR: want to cancel again.
+
+531
+01:00:14.790 --> 01:00:15.840
+MODERATOR: And you can move forward.
+
+532
+01:00:17.160 --> 01:00:17.490
+P8: Okay.
+
+533
+01:00:18.630 --> 01:00:20.790
+P8: So the next.
+
+534
+01:00:22.140 --> 01:00:29.370
+P8: click export button to the from the data table to download the data csv files optimism downloads.
+
+535
+01:00:30.450 --> 01:00:32.820
+P8: tab which is here.
+
+536
+01:00:34.860 --> 01:00:37.470
+P8: download zip with all the data tables.
+
+537
+01:00:38.730 --> 01:00:40.710
+P8: Okay, so.
+
+538
+01:00:42.510 --> 01:00:52.320
+P8: SIP download tab on the left side panel and click download SIP with all the data table to download data all the queries summit agenda session as well.
+
+539
+01:00:53.550 --> 01:00:58.920
+P8: Okay, so this option allows you to download.
+
+540
+01:01:00.120 --> 01:01:06.930
+P8: All the data tables, so my understanding is it allows you to download all the queries that you have made.
+
+541
+01:01:08.700 --> 01:01:09.000
+MODERATOR: Now.
+
+542
+01:01:09.480 --> 01:01:15.390
+P8: And then, so the option will be to kind of briefly view all the all your queries Steve everything's okay.
+
+543
+01:01:21.510 --> 01:01:24.450
+P8: So my first query was from April.
+
+544
+01:01:25.800 --> 01:01:29.190
+P8: To November second query was.
+
+545
+01:01:30.810 --> 01:01:43.740
+P8: January to April, my last query was August to December case i'm just going to click so you can export them individually or you can just done, all of them in a zip file.
+
+546
+01:01:43.830 --> 01:01:44.250
+Okay.
+
+547
+01:01:46.080 --> 01:01:48.900
+P8: Okay that's that's Nice and straightforward.
+
+548
+01:01:54.390 --> 01:01:55.140
+P8: download.
+
+549
+01:01:57.060 --> 01:01:57.570
+P8: date.
+
+550
+01:01:58.920 --> 01:02:00.270
+P8: Is it downloading.
+
+551
+01:02:00.690 --> 01:02:01.530
+MODERATOR: Just click.
+
+552
+01:02:02.670 --> 01:02:06.420
+P8: I think i've already clicked but it's a kiss try again.
+
+553
+01:02:09.000 --> 01:02:10.950
+MODERATOR: I, like you to my computer it's fine.
+
+554
+01:02:11.580 --> 01:02:13.800
+P8: Okay we'll probably have 100 files.
+
+555
+01:02:16.800 --> 01:02:22.290
+P8: So the last task is finally you could summarize verbally, the overall experience.
+
+556
+01:02:23.370 --> 01:02:30.930
+P8: and completing these tasks, using seat dashboard and Please proceed to complete the a P es Su Q question.
+
+557
+01:02:32.340 --> 01:02:33.150
+P8: Okay, so.
+
+558
+01:02:35.160 --> 01:02:37.290
+P8: Just the overall comments.
+
+559
+01:02:39.210 --> 01:02:39.480
+MODERATOR: No.
+
+560
+01:02:41.760 --> 01:02:43.860
+P8: Is it is just in dialogue.
+
+561
+01:02:43.950 --> 01:02:44.880
+MODERATOR: yeah yeah yeah.
+
+562
+01:02:45.000 --> 01:02:46.470
+P8: yeah talking.
+
+563
+01:02:50.160 --> 01:02:51.000
+P8: Okay, so.
+
+564
+01:02:54.120 --> 01:03:00.930
+P8: So I like that it's it's user friendly and it's simplified.
+
+565
+01:03:02.310 --> 01:03:06.750
+P8: From the get go so from the home tab, which is the first thing that you see.
+
+566
+01:03:08.280 --> 01:03:11.220
+P8: You see i'm just going to put all these things away.
+
+567
+01:03:15.990 --> 01:03:26.400
+P8: yeah So the first impression when you get in is that you have like you know, a website with a few simple instructions and not too much information.
+
+568
+01:03:27.480 --> 01:03:39.960
+P8: Because some website just I just saw it just overwhelm you with information so it's like what it does, how to use the dashboard and then this way the data source comes coming from.
+
+569
+01:03:41.400 --> 01:03:45.960
+P8: And then, it gives you, you can look at things from the map.
+
+570
+01:03:48.450 --> 01:03:50.670
+P8: The map at first.
+
+571
+01:03:52.530 --> 01:03:55.620
+P8: You think see it's color coded.
+
+572
+01:03:58.320 --> 01:04:01.410
+P8: Based on a scale.
+
+573
+01:04:03.300 --> 01:04:06.930
+P8: From more from cold to warm and then you.
+
+574
+01:04:08.130 --> 01:04:13.350
+P8: You i'm just going to zoom in sorry if i'm taking long i'm just.
+
+575
+01:04:13.350 --> 01:04:16.200
+P8: Trying to play replay the things in my head.
+
+576
+01:04:16.290 --> 01:04:16.890
+Just thinking.
+
+577
+01:04:19.620 --> 01:04:21.360
+P8: So the color coding of the map.
+
+578
+01:04:24.120 --> 01:04:26.790
+P8: You think it's corresponds to the map itself.
+
+579
+01:04:28.230 --> 01:04:34.350
+P8: But I think it refers to the zit school for the values that you have in there.
+
+580
+01:04:37.830 --> 01:04:40.650
+P8: So that was the one thing that was a bit.
+
+581
+01:04:43.830 --> 01:04:46.050
+P8: Confusing at first, because you.
+
+582
+01:04:46.320 --> 01:04:51.540
+P8: You you look at the color coding of the map for each county and then you.
+
+583
+01:04:52.710 --> 01:04:57.030
+P8: The data point density Okay, so I guess, I should just read this property.
+
+584
+01:04:58.290 --> 01:05:12.060
+P8: regions so you're trying to make sense of the of the data point density, whether they're referring to them to the map itself the different countries and then you when you click on each country it's Nice that you can see a value.
+
+585
+01:05:13.350 --> 01:05:16.980
+P8: But you the values you like Oh, does it mean.
+
+586
+01:05:17.280 --> 01:05:17.520
+Okay.
+
+587
+01:05:19.620 --> 01:05:28.410
+P8: But until you start playing around which is, which is the whole point is that jonah query the data, so you get this the query part is really nice because you.
+
+588
+01:05:28.830 --> 01:05:47.790
+P8: You click the disease of interest you click the event of interest you have explanation of the different categories which is like really nice The self explanatory and then you've got the location of interest, the one confusing thing was you get to have some look at the raw data.
+
+589
+01:05:49.350 --> 01:05:49.950
+MODERATOR: In terms of.
+
+590
+01:05:50.310 --> 01:06:04.260
+P8: us assume that each event date probably first to each person or something in an event, you don't show that Professor each person will just you know one person with multiple events or something.
+
+591
+01:06:06.240 --> 01:06:13.560
+P8: But at the end of the day, you looking at aggregated data so maybe you're not interested individual data so that that should be fun.
+
+592
+01:06:15.600 --> 01:06:24.540
+P8: But then you think so, you want to maybe isolate from looking at all the data to maybe looking at you know specific locations.
+
+593
+01:06:25.980 --> 01:06:29.640
+P8: From this just brief summary you're not sure whether.
+
+594
+01:06:30.540 --> 01:06:30.930
+Okay.
+
+595
+01:06:32.310 --> 01:06:35.640
+P8: And then the date range is nice, you can select what you want.
+
+596
+01:06:38.160 --> 01:06:41.670
+P8: Maybe it could be nice to have like a little information.
+
+597
+01:06:41.730 --> 01:06:43.500
+P8: Okay, but just saying.
+
+598
+01:06:45.270 --> 01:06:47.550
+P8: You know what data is available.
+
+599
+01:06:49.650 --> 01:06:50.010
+MODERATOR: Okay.
+
+600
+01:06:51.330 --> 01:06:52.200
+P8: and
+
+601
+01:06:53.310 --> 01:06:54.930
+P8: The temporal units.
+
+602
+01:06:56.130 --> 01:06:59.040
+P8: That was quite nice it has an explanation.
+
+603
+01:07:02.610 --> 01:07:09.180
+P8: So what would be nice, so the temporal units and spatial temporal aggregation.
+
+604
+01:07:11.280 --> 01:07:15.570
+P8: So data source temporary units just going to click on this.
+
+605
+01:07:19.110 --> 01:07:22.230
+P8: So at least yeah gives you an extra explanation.
+
+606
+01:07:24.330 --> 01:07:34.050
+P8: And then you so what other thing that might be nice is, if you maybe have an option to look at the mean minimum and maximum.
+
+607
+01:07:39.870 --> 01:07:42.360
+P8: Without downloading them a separate.
+
+608
+01:07:43.650 --> 01:07:51.390
+P8: folders but I know most a given the Copernicus and many places, you have to download those things separately.
+
+609
+01:07:53.880 --> 01:07:59.010
+P8: And then, so that, for me, overall, this is this is quite nice psych.
+
+610
+01:08:00.120 --> 01:08:00.480
+P8: You.
+
+611
+01:08:00.690 --> 01:08:18.000
+P8: didn't invent you click and then you have the data and then you then you get your query and then you get the chance to to plot it, I mean given it was my first time I was like figuring out whether you know, because my first instinct was.
+
+612
+01:08:19.230 --> 01:08:25.800
+P8: So you click on your querying this is nice it's actually gives you a summary what you requested, and then it gives you.
+
+613
+01:08:27.360 --> 01:08:31.920
+P8: A the road date which is like this is perfect, you know.
+
+614
+01:08:33.720 --> 01:08:34.050
+MODERATOR: know.
+
+615
+01:08:35.730 --> 01:08:37.830
+P8: The visit school.
+
+616
+01:08:39.570 --> 01:08:40.530
+P8: it's not something.
+
+617
+01:08:41.790 --> 01:08:44.160
+P8: yeah i'm used to using as much.
+
+618
+01:08:45.300 --> 01:08:45.690
+MODERATOR: Okay.
+
+619
+01:08:46.260 --> 01:08:46.740
+But.
+
+620
+01:08:48.210 --> 01:09:01.650
+P8: Understanding it's if it's like you know it just tells you delivers cuteness towards the data right, and most of the if if the data is negative excuse most of the values are going to be towards the left, the lower end.
+
+621
+01:09:02.550 --> 01:09:09.780
+P8: If it's like above certain towards the right the values are gonna be towards hi my interpretation of this was.
+
+622
+01:09:14.340 --> 01:09:20.220
+P8: just go down my interpretation of the red column just indicate.
+
+623
+01:09:21.240 --> 01:09:27.810
+P8: just indicated, for me, for example, PM 10 was just generally high around the November period.
+
+624
+01:09:33.030 --> 01:09:40.920
+P8: And then the plot, I read that was so much my biggest favorite part actually i'm sorry I missed up your whole thing by.
+
+625
+01:09:41.010 --> 01:09:43.080
+MODERATOR: Double clicking things in time.
+
+626
+01:09:45.480 --> 01:09:51.300
+P8: cuz the visualization really like helps you kind of put the data into perspective, you know.
+
+627
+01:09:53.610 --> 01:10:04.140
+P8: And and yeah it will just give you an idea how your datum it gives you like overall picture of the trend of what you can expect, and this is like just like information on its own.
+
+628
+01:10:05.220 --> 01:10:08.520
+P8: Which is quite useful and now being able to like look at each.
+
+629
+01:10:11.490 --> 01:10:15.090
+P8: yeah I mean this is this is great, this is like really.
+
+630
+01:10:17.100 --> 01:10:18.420
+P8: You have an idea.
+
+631
+01:10:19.650 --> 01:10:21.300
+P8: What the data looks like.
+
+632
+01:10:25.590 --> 01:10:32.790
+P8: yeah i'm sure if I had gone to daily daily data aggregate data that that even get more information.
+
+633
+01:10:35.700 --> 01:10:36.990
+P8: Which is quite Nice.
+
+634
+01:10:38.190 --> 01:10:41.970
+P8: And then, so that was that was nice part.
+
+635
+01:10:45.540 --> 01:10:47.760
+P8: So all the plots really like.
+
+636
+01:10:49.380 --> 01:10:55.230
+P8: What most people in the field, I used to is maybe having the role, having separate.
+
+637
+01:10:58.230 --> 01:11:03.480
+P8: Having separate variables, so what I was thinking, I was going to see was.
+
+638
+01:11:05.910 --> 01:11:08.400
+P8: Basically, this as a box plot.
+
+639
+01:11:10.680 --> 01:11:12.270
+P8: And just show you.
+
+640
+01:11:15.780 --> 01:11:25.680
+P8: So the values themselves Okay, this is still the Z score, which shows you kind of the Z score should follow the trend of the actual road data right.
+
+641
+01:11:27.420 --> 01:11:27.870
+P8: Okay.
+
+642
+01:11:28.920 --> 01:11:35.550
+P8: So either way it's just as a way to normalize the data, so you can compare them on the same plot okay.
+
+643
+01:11:36.720 --> 01:11:46.650
+P8: yeah I mean I mean it's fine I mean, because at the end of the day, you just want to get an idea of the pattern, and she access to data.
+
+644
+01:11:52.650 --> 01:11:55.320
+P8: If i'm thinking about people in the medical field.
+
+645
+01:11:57.810 --> 01:12:00.540
+P8: Sometimes they love, they would love.
+
+646
+01:12:01.680 --> 01:12:10.080
+P8: Individual plots for each pollutant but that will just create too much additional work you.
+
+647
+01:12:10.290 --> 01:12:12.420
+P8: Okay, so you could have like let's say.
+
+648
+01:12:14.280 --> 01:12:15.930
+P8: The actual role values.
+
+649
+01:12:17.280 --> 01:12:23.130
+P8: On the y axes and then TIM TIM here, and then the different temporal units like.
+
+650
+01:12:23.310 --> 01:12:24.390
+You know the different monkey.
+
+651
+01:12:25.830 --> 01:12:28.500
+P8: And then you can have option to look at them separately.
+
+652
+01:12:30.780 --> 01:12:46.830
+P8: But at the end of the day, this whole thing is to help people you've integrated the data in the back end and you want to access the raw data and then visually look at it, so I think for me like this is this is perfectly fine the plots really.
+
+653
+01:12:48.000 --> 01:12:48.300
+P8: give you.
+
+654
+01:12:51.570 --> 01:12:52.680
+P8: give you an idea.
+
+655
+01:12:54.420 --> 01:13:06.540
+P8: And also like that you can make multiple requests, instead of you have the option to download them individually, but then you have an option to download them as a zip file, which is really.
+
+656
+01:13:07.830 --> 01:13:09.450
+P8: Much more efficient way of.
+
+657
+01:13:10.680 --> 01:13:11.850
+P8: of getting this data.
+
+658
+01:13:14.370 --> 01:13:15.990
+P8: So yeah.
+
+659
+01:13:16.170 --> 01:13:23.850
+P8: So the I like the simplicity, I like that you get an extra option to just look at the data briefly.
+
+660
+01:13:25.740 --> 01:13:28.560
+P8: There I guess the minor things is is just.
+
+661
+01:13:30.000 --> 01:13:32.520
+P8: You know the thing about the event dates.
+
+662
+01:13:33.450 --> 01:13:33.780
+And yeah.
+
+663
+01:13:36.090 --> 01:13:37.770
+P8: But it's it's really nice album.
+
+664
+01:13:39.390 --> 01:13:40.290
+MODERATOR: Okay, thank you.
+
+665
+01:13:40.620 --> 01:13:43.980
+P8: yeah if you've done quite a lot of hard work.
+
+666
+01:13:47.100 --> 01:13:50.310
+MODERATOR: Thank you so i'm going to stop the recording.
+

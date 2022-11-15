@@ -1,0 +1,22 @@
+tag,description,number of highlights
+Moderator Assist,"The moderator intervenes because the participant asks a direct question, wanders off task or the system has a technical issue. ",125
+Linkage process clear,The linkage process is clear from uploading to exporting the linked data,204
+Export fine,Export of the zip file is fine,25
+Plot clear,The presentation of the variables and functionalities are clear in the plot,112
+Plot unclear,A component of the plot is not clear,50
+Output complete,No additional information is required to start the data analysis of the linked data as the dataset structure and content are clear and complete,99
+Usable tool and data,"The tool is easy to use, time saving and better than before. The data is in a usable format to conduct research.",155
+Real use case application,The tool and data useful for a real use case application ,54
+Text or feature improvement,"Clarify wording, fix typo on a word, add extra information (e.g. tooltip), explain z-score interpretation bias and improve linking time progress",111
+Text consistent,"The text provided in the web interface is useful, helpful and consistent",32
+Data protection important,Data protection is important aspect when linking health data with other sources and for publication,20
+Data available comment,"Comment related to the type, resolution, granularity or coverage of the available environmental data.",27
+Researcher's expertise,The researcher comments on their fit or background to evaluate the tool.,25
+Lack of preparation and tasks completion unclear,The participant asks if the task is completed or goes back to read the task again and comments on the lack of preparation for the session,35
+Report helpful,The report is nice and useful with helpful features to explore and understand the data.,169
+Simplify report content,The amount of text in the interface and report can be reduced and the metadata section highlighted,26
+CSV output inconsistent,Some of the CSV files have missing data and the reason is not clear,26
+Technical web issues,"Technical issues when editing cells in data tables, due to browser settings or the recording platform. The web needs to be refreshed to export the output or continue the session.",42
+Additional features,Check upload input. Filter data table by variable. Add sanity checks. Select specific variables before linkage. Include feedback to improve data coverage. Allow for multiple aggregation methods. Offline deploy with own environmental data. Add research publications.,63
+Linkage features unclear,"Uploading the (meta)data is not clear, done twice or not expected; and the linkage options are selected partially, not in order or without valid inputs.",144
+Output unclear,The content or structure of the output datasets and the filename are not enough to understand the meaning of the data,72

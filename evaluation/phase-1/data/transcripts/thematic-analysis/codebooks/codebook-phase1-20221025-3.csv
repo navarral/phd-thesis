@@ -1,0 +1,14 @@
+tag,description,number of highlights
+Visualization of plots complex,"Some visualisations lacked axis labels and introductory text for a better grasp, and grouping queries in a plot was complex",50
+Confusing text descriptions,Some text descriptions and dashboard features are not easy to understand,16
+Complex data linking process,The data linkage process is not clear,31
+Unclear standardisation of the data,The data standardisation process and the use of z-scores are not clear,9
+"Helpful text, tooltips and summaries","Descriptions, tooltips and pop-ups facilitated the data linkage process and summaries provided a helpful overview of the data for better understanding",24
+Environmental data prior to flare events,Temporal linkage must be for the period before multiple clinical events,23
+Good data exploration features,"Data exploration features such as data tables, plots and comparing queries engage researchers with the linked data",56
+Useful data linkage and export features,Query features are useful to link and retrieve the required linked data,21
+Technical session issues,"Delayed responses, control malfunctioning and script errors during the session",28
+Complex task instructions,Task wording and structure are difficult to follow,10
+Useful and easy to use approach,The approach is useful and easy to link environmental and health data for researchers,25
+Moderator assist,"The moderator intervenes because the participant struggles to complete a task, wanders of task or goes too deep into a task or the systems crashes.",231
+Additional features,Extend data aggregation options. Add more event categories. Custom event input.,15

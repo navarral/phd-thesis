@@ -1,0 +1,1570 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.410
+MODERATOR: What i'm gonna do is i'm going to give you a remote control of my my computer, I would like to ask if you would move the mouse around the screen.
+
+2
+00:00:08.700 --> 00:00:09.719
+MODERATOR: Okay perfect.
+
+3
+00:00:09.960 --> 00:00:11.460
+MODERATOR: And is this room okay.
+
+4
+00:00:11.969 --> 00:00:13.559
+MODERATOR: Is this room Okay, so your screen.
+
+5
+00:00:13.830 --> 00:00:16.379
+P10: The zoom is fine for me.
+
+6
+00:00:16.440 --> 00:00:19.350
+P10: Okay, let me see now yeah to take.
+
+7
+00:00:20.970 --> 00:00:22.200
+yeah and then.
+
+8
+00:00:23.250 --> 00:00:23.580
+P10: I.
+
+9
+00:00:24.060 --> 00:00:35.880
+P10: might just minimize this yeah okay and i'm back so just let me check that I can still right so not yet that's grant yeah.
+
+10
+00:00:36.540 --> 00:00:41.550
+MODERATOR: Okay, so P10 i'm going to set a timer and whenever you want, you can start reading the first task.
+
+11
+00:00:42.450 --> 00:00:43.080
+Okay.
+
+12
+00:01:03.540 --> 00:01:23.820
+P10: Okay, see dashboard heist the complexities of 1989 across the desired outcome sport has great researchers identify appropriate environmental variables, to enable to hope exploration researching rare disease, how to use the dashboard select submit the query inputs on the left.
+
+13
+00:01:24.930 --> 00:01:37.170
+P10: explore the resulting link to environmental data that appear after clicking submit export the data for your needs a text file named user query history, our text is automatically saved on the APP locker folder.
+
+14
+00:01:37.860 --> 00:01:43.650
+P10: With history of your query and put selections you'll be able to use this files get the data directly to an API in the future.
+
+15
+00:01:44.520 --> 00:01:58.290
+P10: Environmentally it elsewhere, so we go from the following source web pollution aerosol data data point stands to click button and hover over agents to get the number of data points right, so this is my query window here.
+
+16
+00:01:59.790 --> 00:02:06.750
+P10: or sorry my patients already there we are and vasculitis so click on that.
+
+17
+00:02:07.380 --> 00:02:10.710
+MODERATOR: This one do you mind completing a task one first.
+
+18
+00:02:12.030 --> 00:02:13.500
+P10: task one and.
+
+19
+00:02:16.800 --> 00:02:24.330
+P10: Oh, and oh sorry apologies apologies I skipped a title is yet and.
+
+20
+00:02:37.380 --> 00:02:41.460
+P10: Now okay so i'm trying to figure out how to zoom in here.
+
+21
+00:02:44.580 --> 00:02:45.420
+P10: Maybe it's.
+
+22
+00:02:46.920 --> 00:02:49.980
+MODERATOR: These arrows at the bottom, or just for me some someone.
+
+23
+00:02:51.870 --> 00:02:52.500
+P10: Okay.
+
+24
+00:02:53.700 --> 00:02:56.040
+P10: Maybe I can still get.
+
+25
+00:02:57.090 --> 00:02:57.480
+here.
+
+26
+00:03:01.530 --> 00:03:05.250
+P10: Okay, so this is given me the number of.
+
+27
+00:03:13.710 --> 00:03:15.090
+P10: Data points Tennessee.
+
+28
+00:03:19.980 --> 00:03:24.720
+P10: Number of data points right so i'm figuring out here.
+
+29
+00:03:32.100 --> 00:03:39.390
+P10: Okay, so what i'm looking at here is this is effectively, the number of patients that are recorded in each.
+
+30
+00:03:40.470 --> 00:03:41.340
+county.
+
+31
+00:03:42.360 --> 00:03:47.730
+P10: Rights there's be tree and county awfully and there's pollution records for three patients.
+
+32
+00:03:48.780 --> 00:03:54.660
+P10: And so i'd expect see a much higher density if I move over to Dublin whoops frozen look at this.
+
+33
+00:03:57.570 --> 00:03:58.500
+P10: yeah.
+
+34
+00:03:59.670 --> 00:04:04.980
+P10: So yeah I see I see 27 here, though right so.
+
+35
+00:04:09.780 --> 00:04:10.110
+Oh.
+
+36
+00:04:14.640 --> 00:04:22.110
+P10: See 27 so fiduciary constraints several weather equals three data points density equals 30.
+
+37
+00:04:23.730 --> 00:04:32.010
+P10: Okay, so I just try and figure out what the data points density is here right so obviously it means records, but i'm.
+
+38
+00:04:33.330 --> 00:04:36.210
+P10: not entirely sure.
+
+39
+00:04:37.410 --> 00:04:47.130
+P10: i'm not entirely sure what it means, and so i'm just going to say the multiple meanings that I think it could have it could be, it could be like you know.
+
+40
+00:04:49.050 --> 00:04:54.000
+P10: It could be like 27 different pollution locations and three weather locations for Dublin.
+
+41
+00:04:54.750 --> 00:05:07.950
+P10: Because we Turkey days point sensitive tarty it could be related to patients could give me the number of patients that are recorded and, although that would seem a little bits that seem a little this.
+
+42
+00:05:09.450 --> 00:05:16.620
+P10: ambiguous, so if we go over here i'm just going to spend a little few more minutes trying to explore this.
+
+43
+00:05:17.850 --> 00:05:22.590
+P10: told you to be an outlier and so, for example.
+
+44
+00:05:25.740 --> 00:05:28.020
+P10: Come county monahan to pollution.
+
+45
+00:05:29.790 --> 00:05:32.010
+P10: records zero weather records.
+
+46
+00:05:33.690 --> 00:05:34.650
+P10: Oh.
+
+47
+00:05:36.000 --> 00:05:36.840
+P10: i'm good.
+
+48
+00:05:38.070 --> 00:05:41.850
+P10: Okay i'm not accept or not, I think about a bit ambiguous what the.
+
+49
+00:05:41.880 --> 00:05:42.900
+MODERATOR: What the actual data.
+
+50
+00:05:42.930 --> 00:05:47.760
+P10: Point stance to me, so I think an explanation of what what that.
+
+51
+00:05:47.790 --> 00:05:55.140
+P10: means there because it's CERT it's not clear enough here and okay so that's my task one.
+
+52
+00:05:55.560 --> 00:05:59.970
+MODERATOR: And you're Mr mystery to the first school soon.
+
+53
+00:06:05.790 --> 00:06:16.350
+P10: So i've clicked the open map to visualize and kind of an explorer data source spike to race clicking and popping up in a new tab.
+
+54
+00:06:27.990 --> 00:06:30.840
+P10: Okay hold on a second maybe if Mr up here.
+
+55
+00:06:36.240 --> 00:06:37.620
+P10: What says.
+
+56
+00:07:09.240 --> 00:07:13.770
+P10: Okay, so we're looking actually at the location of interest rates so.
+
+57
+00:07:15.390 --> 00:07:16.230
+P10: and
+
+58
+00:07:18.300 --> 00:07:26.010
+MODERATOR: So P10 I will ask you one more time and if my book and move on, if you would like to read this one again the first sentence.
+
+59
+00:07:27.990 --> 00:07:38.850
+P10: yeah read it, read the text within home tab and main panel, the land explored as a source of your choosing by right clicking and opening in a new tab.
+
+60
+00:07:40.200 --> 00:07:41.790
+P10: or apologies yeah.
+
+61
+00:07:42.390 --> 00:07:44.940
+P10: I mean you mean you mean this here yeah.
+
+62
+00:07:46.200 --> 00:07:46.830
+P10: Okay.
+
+63
+00:07:50.550 --> 00:07:51.270
+P10: Nice.
+
+64
+00:07:53.850 --> 00:07:56.220
+P10: location access and.
+
+65
+00:08:02.910 --> 00:08:03.510
+MODERATOR: This is.
+
+66
+00:08:03.600 --> 00:08:11.160
+P10: Bringing me to the mess Aaron okay sighs yeah and then autocad daily data.
+
+67
+00:08:13.170 --> 00:08:17.010
+MODERATOR: here just acknowledging where the data comes from should be enough to complete this.
+
+68
+00:08:17.790 --> 00:08:19.350
+P10: Okay yeah okay.
+
+69
+00:08:20.670 --> 00:08:21.420
+P10: So.
+
+70
+00:08:23.280 --> 00:08:23.820
+P10: oops.
+
+71
+00:08:27.270 --> 00:08:27.600
+P10: yeah.
+
+72
+00:08:28.770 --> 00:08:30.810
+P10: Okay, so that's so that's that on yeah.
+
+73
+00:08:31.140 --> 00:08:31.890
+yeah.
+
+74
+00:08:34.080 --> 00:08:35.700
+P10: Okay, and.
+
+75
+00:08:37.740 --> 00:08:42.750
+P10: All right now, so, so the task to and.
+
+76
+00:08:44.760 --> 00:08:49.080
+P10: For us to submit a query using the input options available and query tab.
+
+77
+00:08:50.490 --> 00:08:56.310
+P10: Sorry, no emotion view here right, so the input OPS faded in the query tab on the left, most pan.
+
+78
+00:08:57.180 --> 00:09:04.020
+P10: Why you're selecting the query options, please explain it out the specific choices that you make closer to the half of first.
+
+79
+00:09:04.470 --> 00:09:17.700
+P10: So the first option, obviously we have a classical license in Ireland that might be extended at some point something else, and then we want to look at the event of interest so i've got a PIC high probability and got to cancel and all their.
+
+80
+00:09:18.750 --> 00:09:21.240
+P10: Non and and.
+
+81
+00:09:22.620 --> 00:09:34.110
+P10: As you as you make choices, you want to become available for you to select once you reach the end, please click the submit button once which will all be available valid inputs have been selected.
+
+82
+00:09:35.130 --> 00:09:37.920
+P10: Okay, so these are the.
+
+83
+00:09:41.100 --> 00:09:50.070
+P10: These are obviously all of the eli the event of interest date here assist gives me a like a little kind of snapshot of what it is.
+
+84
+00:09:50.640 --> 00:10:04.560
+P10: And what I want to do, then, is, I want to mind down and take the location of interest down here, so if I went for something like longford I think just one patient and long for different correct maybe two.
+
+85
+00:10:05.700 --> 00:10:12.150
+P10: And to have to click Ireland well, maybe, maybe, for the moment, so it's got to be.
+
+86
+00:10:12.480 --> 00:10:16.170
+MODERATOR: were delayed me to explain why what do you think this Ireland modern means.
+
+87
+00:10:17.430 --> 00:10:24.150
+P10: And so I think, maybe it's, too, is it to do with the and the.
+
+88
+00:10:25.560 --> 00:10:30.840
+P10: And the kinds of the pan European Network for vasculitis that.
+
+89
+00:10:31.800 --> 00:10:35.790
+MODERATOR: If somebody was you can also say it's it's fine Thank you.
+
+90
+00:10:36.750 --> 00:10:37.350
+and
+
+91
+00:10:38.430 --> 00:10:40.200
+P10: yeah it's it's worth.
+
+92
+00:10:41.310 --> 00:10:41.790
+P10: Trying to.
+
+93
+00:10:43.110 --> 00:10:48.150
+P10: Trying to yeah i'm just trying to maybe guess what it is sorry i'm very.
+
+94
+00:10:48.840 --> 00:10:56.040
+MODERATOR: I would advise not selecting a word, by not selecting it if you're not comfortable learning what it means for the future of the query.
+
+95
+00:10:57.150 --> 00:10:58.620
+P10: Okay, and.
+
+96
+00:11:01.320 --> 00:11:03.150
+P10: What I mean so.
+
+97
+00:11:08.910 --> 00:11:25.470
+P10: i'm selecting the location of interest, which is long first race, so that I would, so this is an Ireland thing right, so I would work there's just Ireland at the moment, maybe this is for something in the future boss, and with langford oh just assume that that's at a county.
+
+98
+00:11:25.890 --> 00:11:28.200
+P10: county level for lanford and that's what it does.
+
+99
+00:11:28.410 --> 00:11:29.160
+MODERATOR: Take effort.
+
+100
+00:11:29.700 --> 00:11:37.500
+P10: And now to start date when I want, I want to take all dates for all data longford and so.
+
+101
+00:11:38.700 --> 00:11:38.910
+P10: well.
+
+102
+00:11:43.980 --> 00:11:44.640
+P10: See.
+
+103
+00:11:46.860 --> 00:11:49.110
+P10: Think i've frozen again here.
+
+104
+00:11:53.910 --> 00:11:58.110
+P10: Well, there we are right so take the first of August.
+
+105
+00:11:59.370 --> 00:12:01.980
+P10: 2022.
+
+106
+00:12:04.170 --> 00:12:04.980
+P10: Sorry for the bad.
+
+107
+00:12:05.040 --> 00:12:08.520
+P10: is happening is it's bouncing I don't know if you can see that on that side but.
+
+108
+00:12:09.600 --> 00:12:11.070
+P10: it's bouncing back off here.
+
+109
+00:12:11.760 --> 00:12:14.820
+P10: And that's just as zoom thing.
+
+110
+00:12:24.240 --> 00:12:24.630
+P10: hey.
+
+111
+00:12:30.330 --> 00:12:30.990
+P10: This isn't.
+
+112
+00:12:31.950 --> 00:12:33.630
+MODERATOR: I can do it for you.
+
+113
+00:12:33.990 --> 00:12:34.290
+MODERATOR: This has.
+
+114
+00:12:34.320 --> 00:12:38.280
+P10: taken up yeah it's just not it doesn't seem to be yet okay.
+
+115
+00:12:39.900 --> 00:12:50.400
+P10: So I will just do something simple so i'll take until the seventh of November, and what I will do is i'll take I just took a pollution.
+
+116
+00:12:51.840 --> 00:12:59.340
+P10: And my time granularity but i'm going to aren't I think i'd be okay with daily.
+
+117
+00:13:00.630 --> 00:13:07.530
+P10: And then we can select the mean the men or the Max so i'm going to select.
+
+118
+00:13:08.790 --> 00:13:09.900
+P10: The Max there.
+
+119
+00:13:11.010 --> 00:13:11.730
+P10: and
+
+120
+00:13:14.580 --> 00:13:21.420
+P10: Let me see what happens Okay, this is my cue one that's that's.
+
+121
+00:13:21.660 --> 00:13:31.230
+P10: A period and what i'm seeing here now is a okay what i'm on to task three, I think.
+
+122
+00:13:31.920 --> 00:13:37.440
+P10: yeah right so explored Q on tab in order to understand the table underneath there are two buttons.
+
+123
+00:13:38.790 --> 00:13:41.460
+P10: That help you to interpret the data tip that you see.
+
+124
+00:13:44.670 --> 00:13:57.570
+P10: Okay, this is my open color table description yeah commenting allowed and their usefulness and clarity as explanations and then read the text of the day sub tab right so look up here first.
+
+125
+00:14:09.810 --> 00:14:12.630
+P10: Okay, so this is just giving me a summary.
+
+126
+00:14:14.160 --> 00:14:22.050
+P10: Of the data that i'm looking at us and time frequency sampling and the kind of the the aggregation method is a summary method.
+
+127
+00:14:22.830 --> 00:14:23.460
+MODERATOR: Would you say.
+
+128
+00:14:23.550 --> 00:14:24.240
+P10: If I.
+
+129
+00:14:24.630 --> 00:14:26.190
+MODERATOR: Would you say, is it useful for you.
+
+130
+00:14:27.900 --> 00:14:41.490
+P10: And yet, I think that is useful, yes it's like the Meta data so it's it's good to just check that you're looking at the at the right summary and then, if we look at the orange color table a.
+
+131
+00:14:46.050 --> 00:14:51.480
+P10: quarter table description apologies, maybe as fast I have pressed already.
+
+132
+00:15:11.460 --> 00:15:20.010
+P10: Okay, so i'm just seeing here and a description of a table that I haven't actually seen yes.
+
+133
+00:15:20.280 --> 00:15:28.080
+P10: Okay, which, I might see in a moment, but I remember, I remember that saying there and now okay so.
+
+134
+00:15:29.490 --> 00:15:32.370
+P10: then read the text in the days of Sub tab.
+
+135
+00:15:34.740 --> 00:15:43.440
+P10: and talk to the interpretation of the variables and sell background colors red and blue after data table, you can select columns that you want to split a tub columns Part One
+
+136
+00:15:44.370 --> 00:15:50.220
+P10: Note that you could scroll vertically and horizontally and use the page errol's to check around today said that she's right.
+
+137
+00:15:50.520 --> 00:15:58.800
+P10: So and full name of the variables view disappear when hovering over the headings today's table for further information, please refer to the data sources links.
+
+138
+00:15:59.370 --> 00:16:08.970
+P10: The top of columns button allows to select kinds of interest and export button to download the data as a csv file right so we're looking here, as we have.
+
+139
+00:16:10.260 --> 00:16:16.770
+P10: An Okay, so this is for the patient or patients that are in longford and.
+
+140
+00:16:19.320 --> 00:16:22.740
+P10: We are looking at 2pm 2.5.
+
+141
+00:16:24.000 --> 00:16:26.100
+P10: Okay, and.
+
+142
+00:16:27.150 --> 00:16:29.100
+P10: Now I would there.
+
+143
+00:16:31.980 --> 00:16:38.340
+P10: i'm looking at the units there and i'm seeing yuji police are cute probably meant to be micrograms.
+
+144
+00:16:39.960 --> 00:16:43.440
+P10: So I would, I would say, there needs to be an ascii.
+
+145
+00:16:44.430 --> 00:16:59.520
+P10: and asked a key from you in the air, so where and or maybe I just think that it's maybe non standard and and now this looks this is nice here, so what i'm seeing so it's.
+
+146
+00:17:09.840 --> 00:17:14.850
+P10: Okay right, so I can see them or see them effectively.
+
+147
+00:17:16.620 --> 00:17:20.820
+P10: I think, by clicking the I, but how do I get back if I want to look at them again.
+
+148
+00:17:23.760 --> 00:17:27.630
+P10: I might I might see it, this rice other So if I click that I.
+
+149
+00:17:28.200 --> 00:17:32.700
+MODERATOR: Do you want to read the text on top of the table again.
+
+150
+00:17:43.140 --> 00:17:44.280
+Okay yeah.
+
+151
+00:17:48.420 --> 00:17:52.890
+MODERATOR: Would you like to explore the toggle button, as it says in the second paragraph.
+
+152
+00:17:53.550 --> 00:17:54.240
+yeah.
+
+153
+00:17:56.880 --> 00:17:57.510
+Okay.
+
+154
+00:18:09.150 --> 00:18:16.230
+P10: Right so i'm seeing PM 2.5 here now, I want to us think about this higher high and low values.
+
+155
+00:18:17.820 --> 00:18:19.350
+P10: So am I, seeing that.
+
+156
+00:18:21.570 --> 00:18:23.700
+P10: Am I seeing the color table here.
+
+157
+00:18:25.380 --> 00:18:25.800
+P10: or not.
+
+158
+00:18:28.770 --> 00:18:30.750
+P10: i'm not sure whether it's.
+
+159
+00:18:32.730 --> 00:18:35.250
+P10: Whether it's just what i'm seeing it.
+
+160
+00:18:37.980 --> 00:18:38.670
+MODERATOR: it's fine.
+
+161
+00:18:42.120 --> 00:18:50.670
+P10: So i'm not sure if I see the but obviously this isn't the color table, but how could I see the color table.
+
+162
+00:18:52.530 --> 00:18:53.910
+P10: Okay, but we may.
+
+163
+00:18:53.970 --> 00:18:58.470
+P10: Come back and gotta go back to that asks yeah i've got to go back to the task, because i'm a figure.
+
+164
+00:18:58.470 --> 00:19:00.180
+P10: It out okay.
+
+165
+00:19:00.810 --> 00:19:04.260
+P10: And it's text to the day sub tab.
+
+166
+00:19:12.450 --> 00:19:12.900
+P10: Get.
+
+167
+00:19:17.340 --> 00:19:17.730
+P10: Okay.
+
+168
+00:19:23.850 --> 00:19:26.670
+MODERATOR: If you want your pen moving to the next task it's fine.
+
+169
+00:19:27.210 --> 00:19:40.590
+P10: yeah okay i'll go go into the next task right so and explore the other types, besides the data tab all three plots ties here is butts porter porter plus our interactive features for different purposes.
+
+170
+00:19:41.040 --> 00:19:47.550
+P10: Please use those features for each part by mentioned you use a spoon and understanding environmental data.
+
+171
+00:19:49.230 --> 00:19:56.010
+P10: you'll be done when you have explored through the interactive features for each of the three plus tabs okay.
+
+172
+00:20:02.100 --> 00:20:02.670
+P10: Okay.
+
+173
+00:20:06.330 --> 00:20:11.820
+P10: Right, so this obviously has something to do with my toggle and here.
+
+174
+00:20:13.050 --> 00:20:18.840
+P10: I can, I can actually decide which of them, I want to look at it's going to replay this in PM 10 for me.
+
+175
+00:20:33.840 --> 00:20:34.380
+P10: enough.
+
+176
+00:20:40.950 --> 00:20:41.910
+P10: Let me scroll down this.
+
+177
+00:20:43.980 --> 00:20:46.770
+P10: backslash maybe I misunderstood something here and.
+
+178
+00:20:48.120 --> 00:20:49.710
+P10: Okay, maybe there's no data.
+
+179
+00:20:50.250 --> 00:21:04.950
+P10: For us, yes that's what it is course okay so it's all of the stage was populated ABC and six six series here yeah okay and writer zoom hover.
+
+180
+00:21:08.310 --> 00:21:10.110
+P10: Okay that's quite nice actually.
+
+181
+00:21:15.180 --> 00:21:29.370
+P10: And theories set of range slider kick a drag set period of interest okay yeah that's really nice that rage slider there okay so look the box plots.
+
+182
+00:21:37.980 --> 00:21:38.400
+P10: and
+
+183
+00:21:42.060 --> 00:21:42.630
+P10: All.
+
+184
+00:21:43.830 --> 00:21:45.330
+P10: The time series.
+
+185
+00:21:47.670 --> 00:21:55.020
+P10: just go back to the time series just for a second, so I suppose I was looking at this, with regard to.
+
+186
+00:21:57.840 --> 00:21:59.790
+P10: With regard to the fence.
+
+187
+00:22:03.390 --> 00:22:04.290
+P10: apologies.
+
+188
+00:22:07.110 --> 00:22:08.340
+P10: i'm not touch my mouse here and.
+
+189
+00:22:10.530 --> 00:22:13.050
+P10: I think it's actually just it's just got the life of.
+
+190
+00:22:14.730 --> 00:22:17.160
+P10: rice just gonna let me, let me.
+
+191
+00:22:20.970 --> 00:22:29.850
+P10: Oh sorry yeah okay now and right so i'm looking at this and i've clicked a high high probability.
+
+192
+00:22:32.430 --> 00:22:46.320
+P10: high poverty event for lung for it's like a PM 2.5 so i'm assuming there's that there's obviously no events during this time period in line for it right because events would be highlighted, with.
+
+193
+00:22:47.820 --> 00:22:49.200
+P10: With some kind of marker.
+
+194
+00:22:50.970 --> 00:23:00.660
+P10: So i'm just wondering now it's a shame, I didn't pick Dublin because I could have a look at that, but anyway race i'm going to move on going to close the box plus.
+
+195
+00:23:01.320 --> 00:23:14.250
+P10: The box Plaza is a little bit less clear to me how would use us from an interpretation point of view, because the data is inherently time orders, so the box plot kind of.
+
+196
+00:23:15.270 --> 00:23:22.620
+P10: It breaks the ordering there, which is guess the time ordering is the is this important part for and.
+
+197
+00:23:23.670 --> 00:23:34.140
+P10: Think about this data, but useful nonetheless see the distribution of values and an extreme supports and.
+
+198
+00:23:37.140 --> 00:23:40.050
+P10: We just looked the interactive features here for these.
+
+199
+00:23:42.390 --> 00:23:43.020
+P10: Okay.
+
+200
+00:23:47.340 --> 00:23:48.390
+P10: Okay i'm not sure.
+
+201
+00:23:49.620 --> 00:23:53.760
+P10: i'm not sure if this is useful if this is nice to hear that.
+
+202
+00:23:53.760 --> 00:24:06.480
+P10: But this is soo this to impart that that's a maturity utility that is and Okay, but we can can actually so tell me zoo.
+
+203
+00:24:08.820 --> 00:24:12.060
+P10: matter anyway Okay, no, we don't wants to dash.
+
+204
+00:24:14.910 --> 00:24:20.040
+P10: Now gotta move supporter plus it's got to be the last one and.
+
+205
+00:24:27.150 --> 00:24:33.600
+P10: Now, I chose some pollution so i'm not sure if this will give me anything but it mice and.
+
+206
+00:24:42.030 --> 00:24:48.750
+P10: Okay, now I need to think about this right, so that the port of our seats for wind for wind speeds.
+
+207
+00:24:49.980 --> 00:24:51.510
+P10: and
+
+208
+00:24:54.510 --> 00:24:57.750
+P10: I think there's only relevant for the weather, for the weather.
+
+209
+00:24:58.020 --> 00:25:00.870
+P10: connections yeah so even though.
+
+210
+00:25:02.370 --> 00:25:10.530
+P10: they're not things like PM 2.5 and I think that there's an interaction, maybe between the wind and under PM 2.5 push and.
+
+211
+00:25:11.820 --> 00:25:12.540
+P10: But I think.
+
+212
+00:25:13.980 --> 00:25:15.000
+P10: i'm wondering.
+
+213
+00:25:16.350 --> 00:25:19.530
+P10: Should this option be here if i'm selecting.
+
+214
+00:25:19.740 --> 00:25:22.800
+P10: Okay, if i'm selecting just pollution.
+
+215
+00:25:24.450 --> 00:25:26.760
+P10: So i'm just wondering if it's if it's ambiguous.
+
+216
+00:25:27.240 --> 00:25:28.410
+P10: Okay, and.
+
+217
+00:25:30.120 --> 00:25:35.280
+P10: Okay, and task five then i'm finished task for.
+
+218
+00:25:35.280 --> 00:25:50.400
+P10: have completed everything that's in there and right so i've been asked clear to your queries after you've submitted down following the same instructions in step two you'll see q2 q3 is new task main panel Now you can compare it with comparative tab.
+
+219
+00:25:51.600 --> 00:25:54.600
+P10: read the text this tab and select number of groups, you wish to make.
+
+220
+00:25:55.410 --> 00:26:09.750
+P10: And click on click to generate groups and you input group appear underneath arranger queries into groups and click on public right is a lot of stuff in there right, so what i'm going to do is go to first of all, what I was talking about actually looking at.
+
+221
+00:26:10.920 --> 00:26:17.460
+P10: Looking at the high publishers you've got to look at his job and now because langford obviously has very few.
+
+222
+00:26:18.660 --> 00:26:23.400
+P10: And so I can also so I can don't Dublin into this as well, and what that will do is.
+
+223
+00:26:23.910 --> 00:26:24.300
+MODERATOR: It will.
+
+224
+00:26:24.540 --> 00:26:25.950
+P10: It will open up the.
+
+225
+00:26:28.740 --> 00:26:32.280
+P10: floor open up Q to tab now I might need your help on.
+
+226
+00:26:32.310 --> 00:26:40.950
+P10: The dates, here again, and I can I can, is there any way that I can select the same dates for.
+
+227
+00:26:42.510 --> 00:26:44.610
+P10: It the same dates for long to Dublin.
+
+228
+00:26:47.490 --> 00:26:52.590
+P10: Or do I do I re select I re select them I just re select them again yeah.
+
+229
+00:26:58.950 --> 00:26:59.370
+Okay.
+
+230
+00:27:08.370 --> 00:27:15.630
+P10: yeah that makes sense because they have to be of the same of the same time scale, if I am doing a comparison of.
+
+231
+00:27:18.360 --> 00:27:19.770
+P10: All rice and.
+
+232
+00:27:26.490 --> 00:27:35.970
+P10: Now, and i'll do another one as well polities, and so I will also look at high probability in.
+
+233
+00:27:37.170 --> 00:27:40.830
+P10: c or there other hotspots or Wexford.
+
+234
+00:27:49.470 --> 00:27:50.430
+P10: should remember this.
+
+235
+00:27:52.920 --> 00:27:55.110
+P10: i'm added to my time here.
+
+236
+00:27:56.340 --> 00:27:58.140
+P10: it's not going to be a purse or best today.
+
+237
+00:27:58.530 --> 00:27:59.760
+MODERATOR: And if i'm P10.
+
+238
+00:28:00.990 --> 00:28:01.620
+P10: let's see.
+
+239
+00:28:03.420 --> 00:28:04.950
+P10: I might need your help here again.
+
+240
+00:28:06.000 --> 00:28:09.360
+P10: This one just has caused others through the zoom for some reason.
+
+241
+00:28:09.360 --> 00:28:09.660
+MODERATOR: Yet.
+
+242
+00:28:09.720 --> 00:28:10.560
+that's perfect.
+
+243
+00:28:15.090 --> 00:28:16.110
+P10: A.
+
+244
+00:28:18.870 --> 00:28:23.760
+P10: I can actually just type in today either take a take that one.
+
+245
+00:28:25.890 --> 00:28:26.220
+and
+
+246
+00:28:27.540 --> 00:28:28.380
+submit.
+
+247
+00:28:30.240 --> 00:28:33.000
+P10: Okay, so I should have three tabs up here now.
+
+248
+00:28:35.250 --> 00:28:36.570
+P10: query to query three.
+
+249
+00:28:40.740 --> 00:28:43.860
+P10: birds okay and.
+
+250
+00:28:46.500 --> 00:28:48.240
+P10: Have a look at the comparison tab.
+
+251
+00:28:50.190 --> 00:29:00.870
+P10: Okay query days previous submission of the session compared by specific variable you can combine these queries into groups, the multiple selection inputs testing increase signal to noise ratio.
+
+252
+00:29:12.720 --> 00:29:28.440
+P10: And sort of side, the number of groups that you wish to compare select which queries you want to group explorer which invite each environment very the different groups queries are grouped by using the mean per unit of time and the time series plus.
+
+253
+00:29:29.460 --> 00:29:35.130
+P10: By concatenation the values in the box a dist what's.
+
+254
+00:29:36.660 --> 00:29:43.230
+P10: There, for the time series plus has a limitation and comparing queries with different time units.
+
+255
+00:29:48.690 --> 00:29:52.830
+P10: it's it's not having a problem with the with the task here i'm just trying.
+
+256
+00:29:52.830 --> 00:29:56.340
+P10: To get my head around the statistical reasoning here.
+
+257
+00:29:56.940 --> 00:29:58.680
+P10: Okay, so.
+
+258
+00:30:00.480 --> 00:30:14.340
+P10: query jays previous mission method can be compared by specific variable right so take PM 2.5 you can combine these queries into groups with them with the multiple selection inputs.
+
+259
+00:30:17.550 --> 00:30:21.090
+P10: To potentially increase the signal to noise ratio.
+
+260
+00:30:23.100 --> 00:30:23.430
+i'm.
+
+261
+00:30:26.490 --> 00:30:33.180
+P10: What i'm saying is that signal signal to noise ratio here so really What it means is the coefficient of variation.
+
+262
+00:30:34.020 --> 00:30:34.620
+MODERATOR: right because we're.
+
+263
+00:30:34.680 --> 00:30:47.490
+P10: we're talking here about none so we don't have any model, as such, my internet's a bit though there so sorry for that no okay well look look we'll just we'll.
+
+264
+00:31:11.190 --> 00:31:13.230
+P10: Okay, so if I want.
+
+265
+00:31:20.550 --> 00:31:21.900
+P10: To acute tree.
+
+266
+00:31:48.180 --> 00:31:51.270
+P10: Okay it's kicking to generate groups and.
+
+267
+00:31:57.330 --> 00:31:57.750
+MODERATOR: Have you.
+
+268
+00:32:12.420 --> 00:32:15.600
+P10: Okay, so let's go again here so cue to.
+
+269
+00:32:18.180 --> 00:32:19.320
+P10: q3.
+
+270
+00:32:21.150 --> 00:32:23.310
+P10: And then click to plush rice so.
+
+271
+00:32:26.550 --> 00:32:27.030
+MODERATOR: Okay.
+
+272
+00:32:27.330 --> 00:32:34.110
+P10: I saw trying to figure out what the meeting is that did I use click to generate groups button.
+
+273
+00:32:36.210 --> 00:32:36.660
+MODERATOR: Yes.
+
+274
+00:32:37.140 --> 00:32:37.650
+I did.
+
+275
+00:32:42.720 --> 00:32:53.310
+P10: yeah okay sorry that's my fault right and now okay so who wants to up the variables so i'm going to look at something like and.
+
+276
+00:32:55.290 --> 00:32:57.840
+P10: Well, I think that's a click pollution.
+
+277
+00:32:57.930 --> 00:33:03.660
+P10: yeah So these are i've seen some weather very was here and that's confused me it's.
+
+278
+00:33:04.020 --> 00:33:05.340
+a mess of pick both.
+
+279
+00:33:07.290 --> 00:33:08.010
+P10: So.
+
+280
+00:33:11.460 --> 00:33:15.660
+P10: I would expect to see PM 2.5 is higher in.
+
+281
+00:33:17.430 --> 00:33:18.060
+P10: In.
+
+282
+00:33:19.650 --> 00:33:24.750
+P10: Total talking now 10 quality very helpful here would be when i'm looking over at the legend.
+
+283
+00:33:26.160 --> 00:33:27.750
+P10: Rather than group one.
+
+284
+00:33:29.040 --> 00:33:32.100
+P10: I had a label that was attached to the location.
+
+285
+00:33:33.000 --> 00:33:33.480
+Okay.
+
+286
+00:33:34.890 --> 00:33:43.200
+P10: Or the the the Ad a lie, so another ad or a label, rather than the group one because it's and.
+
+287
+00:33:44.550 --> 00:33:56.790
+P10: And I think yeah so so the reason i'm saying that is because, if I look here to see group 1pm 2.5 group 2pm 2.5 then look up here and these I see q2 q3.
+
+288
+00:33:59.550 --> 00:34:02.340
+P10: For me, so I think that the labels look.
+
+289
+00:34:02.670 --> 00:34:06.870
+P10: Slightly slightly ambiguous.
+
+290
+00:34:07.740 --> 00:34:08.310
+Okay.
+
+291
+00:34:09.900 --> 00:34:25.890
+P10: And I think will be clear with it at a lot but but anyway getting back so i'm trying to remember now, and although I can go up and click I can go back up and click into my queue to see which of those otherwise it was.
+
+292
+00:34:27.030 --> 00:34:27.600
+P10: county.
+
+293
+00:34:28.230 --> 00:34:28.530
+yep.
+
+294
+00:34:30.930 --> 00:34:31.740
+P10: and
+
+295
+00:34:34.770 --> 00:34:37.080
+P10: So where does it tell me do I hear.
+
+296
+00:34:38.640 --> 00:34:40.560
+P10: Maybe maybe it tells me on this.
+
+297
+00:34:43.920 --> 00:34:44.460
+oops.
+
+298
+00:34:50.520 --> 00:34:52.440
+P10: static, where I get that information.
+
+299
+00:34:55.200 --> 00:34:57.240
+MODERATOR: That you visited before, if you remember.
+
+300
+00:35:02.700 --> 00:35:04.470
+MODERATOR: If not it's fine you can continue.
+
+301
+00:35:04.920 --> 00:35:10.650
+P10: yeah I think I think I was just continue rope because I can't I can't call now anyway okay so.
+
+302
+00:35:12.270 --> 00:35:15.030
+P10: So this group one corresponds to Q to.
+
+303
+00:35:16.470 --> 00:35:18.210
+P10: Which is.
+
+304
+00:35:19.290 --> 00:35:19.770
+P10: Dublin.
+
+305
+00:35:25.500 --> 00:35:32.430
+P10: yeah on group to corresponds to q3 which is Wexford gosh.
+
+306
+00:35:34.590 --> 00:35:35.220
+P10: and
+
+307
+00:35:37.260 --> 00:35:45.060
+P10: So if I look yeah I do I do find us a little bit that does require the work ethic.
+
+308
+00:35:45.510 --> 00:35:45.690
+MODERATOR: To.
+
+309
+00:35:45.750 --> 00:35:48.030
+P10: Twitter, which is which I do, I do think so.
+
+310
+00:35:48.720 --> 00:35:56.910
+P10: But it's not it's not a it's not a it's not a debate it's just for for us to convenience, but now, so what I would be expecting here is that.
+
+311
+00:35:58.740 --> 00:36:02.550
+P10: yeah I would sort of expect Wexford, to have the lower.
+
+312
+00:36:03.420 --> 00:36:18.180
+P10: tier 2.5 overtime, but we're looking at Max PM 2.5 here, but maybe we don't want to get into the analysis and that kind of thing so i'm gonna go to the next task if i've completed everything and this this one, and so no I don't think I have.
+
+313
+00:36:21.570 --> 00:36:29.520
+P10: So we have three different visualizations right, so we have the time series which compares to to overlays to to have a look at the box plus.
+
+314
+00:36:36.420 --> 00:36:36.930
+Okay.
+
+315
+00:36:38.430 --> 00:36:39.450
+P10: and
+
+316
+00:36:41.250 --> 00:36:45.330
+P10: So it doesn't cash the PM 2.5 so I need to.
+
+317
+00:36:46.890 --> 00:36:47.790
+P10: need to go.
+
+318
+00:37:02.880 --> 00:37:13.380
+P10: Okay, this looks these look very squashed and they look roughly on the same scale and.
+
+319
+00:37:14.760 --> 00:37:16.860
+P10: I would find difficult because the.
+
+320
+00:37:17.910 --> 00:37:24.060
+P10: Because so so obviously the scale of the y axis is up a lot, because of the of the outliers.
+
+321
+00:37:24.240 --> 00:37:24.570
+MODERATOR: You know.
+
+322
+00:37:25.140 --> 00:37:43.140
+P10: And I would think like sometimes people would use log 10 transformations to plan to make the scales comparable, but maybe not in this case, because actually the extreme values, there may be something that we're interested in and and.
+
+323
+00:37:47.160 --> 00:37:49.320
+P10: And then we look after this.
+
+324
+00:38:05.010 --> 00:38:05.700
+P10: Okay.
+
+325
+00:38:11.130 --> 00:38:14.280
+P10: So this is and.
+
+326
+00:38:17.370 --> 00:38:23.850
+P10: I need to figure out what this is maybe there's an explanation separate but looks like some distance between distributions like a.
+
+327
+00:38:26.010 --> 00:38:34.410
+P10: clawback lie blur or some kind of histogram distance and so.
+
+328
+00:38:35.850 --> 00:38:37.350
+P10: yeah and.
+
+329
+00:38:39.090 --> 00:38:45.630
+P10: it's this the distance over time, or is the distance or distribute so let me see where's the.
+
+330
+00:38:51.090 --> 00:38:56.790
+P10: So the scale here on the y X the X axis not labels.
+
+331
+00:38:57.300 --> 00:39:07.050
+P10: Okay, so I think actually it's not tests distribution is distribution right so it's an empirical distribution so it's currently density estimate here.
+
+332
+00:39:07.500 --> 00:39:08.070
+MODERATOR: What does.
+
+333
+00:39:08.130 --> 00:39:13.020
+P10: that's what we're seeking we can compare we can compare the two and.
+
+334
+00:39:15.060 --> 00:39:20.310
+P10: And maybe a better maybe a better Labor for that.
+
+335
+00:39:20.370 --> 00:39:24.060
+P10: yeah maybe basher yeah and.
+
+336
+00:39:26.130 --> 00:39:35.640
+P10: produce yes for sure okay so let's let's clear enough OK, and now, so I think i've completed a task five.
+
+337
+00:39:36.120 --> 00:39:43.170
+P10: yep and now going on to task six centuries to export q1 q2 q3 gold star tab.
+
+338
+00:39:44.370 --> 00:39:57.300
+P10: click the export from the data table to download the data a csv file finally open sit down tab on the left side panel and click on downloads it with all data tables.
+
+339
+00:39:58.590 --> 00:39:59.970
+P10: Okay, so I want to download.
+
+340
+00:40:01.920 --> 00:40:02.340
+P10: Dublin.
+
+341
+00:40:14.970 --> 00:40:15.360
+Okay.
+
+342
+00:40:18.150 --> 00:40:20.880
+P10: And then I want to click export.
+
+343
+00:40:21.390 --> 00:40:23.670
+MODERATOR: and want to cancel the export to my computer.
+
+344
+00:40:23.790 --> 00:40:25.620
+P10: Okay well.
+
+345
+00:40:26.190 --> 00:40:29.340
+P10: that's that's fine yeah and then I got to sit down Lord.
+
+346
+00:40:29.400 --> 00:40:29.760
+yep.
+
+347
+00:40:32.070 --> 00:40:36.390
+P10: And download zip with all data tables Do I need to click this and you can cancel.
+
+348
+00:40:36.390 --> 00:40:37.500
+MODERATOR: This you want to look good.
+
+349
+00:40:38.220 --> 00:40:38.670
+yeah.
+
+350
+00:40:42.510 --> 00:40:43.110
+P10: Okay.
+
+351
+00:40:51.660 --> 00:40:52.920
+P10: anything happening there.
+
+352
+00:40:53.640 --> 00:40:54.120
+MODERATOR: it's fine.
+
+353
+00:40:54.780 --> 00:40:56.070
+P10: Okay, great.
+
+354
+00:40:57.480 --> 00:40:58.320
+P10: and
+
+355
+00:41:00.510 --> 00:41:05.610
+P10: So where's The stakes are stored what I guess see just to save, save the tour ever on your on your desktop.
+
+356
+00:41:06.660 --> 00:41:07.680
+P10: and
+
+357
+00:41:11.790 --> 00:41:20.820
+P10: Okay, so yeah I mean just so task seven then just summarizing the so rice and my experience.
+
+358
+00:41:21.990 --> 00:41:26.520
+P10: That was it was nice to us, I think feeling so needs to be.
+
+359
+00:41:27.990 --> 00:41:43.320
+P10: Maybe a little bit more user friendly product and it's very useful to navigate and I liked the time series it's a really good comparison I wouldn't be so convinced about the box.
+
+360
+00:41:47.160 --> 00:41:49.170
+P10: And I think.
+
+361
+00:41:53.820 --> 00:41:58.380
+P10: I think, as well, and so the script how the.
+
+362
+00:41:59.460 --> 00:42:02.490
+P10: How the grouping certain rights today, the thing about.
+
+363
+00:42:04.650 --> 00:42:08.250
+P10: Increasing the signal to noise ratio.
+
+364
+00:42:10.200 --> 00:42:10.410
+MODERATOR: yeah.
+
+365
+00:42:12.360 --> 00:42:14.010
+P10: yeah i'm not i'm not i'm not.
+
+366
+00:42:15.060 --> 00:42:22.050
+P10: convinced by that I think I know, right here you're putting all the data together you use it to get approved standard deviation.
+
+367
+00:42:22.650 --> 00:42:33.000
+P10: And they use an approved standard deviation to flag outliers are not put yeah it's maybe it's clear, for me, because I kind of maybe have worked with that kind of thing before.
+
+368
+00:42:33.450 --> 00:42:34.260
+and
+
+369
+00:42:35.850 --> 00:42:36.480
+MODERATOR: welcomes.
+
+370
+00:42:37.890 --> 00:42:39.390
+P10: You yeah and.
+
+371
+00:42:42.300 --> 00:42:48.270
+P10: Yes, so I think I think it's it's very useful very useful interface overall and I to comparative.
+
+372
+00:42:49.380 --> 00:42:54.450
+P10: side, what I would like is that if the events for overlay and the dates of the events, because then.
+
+373
+00:42:54.450 --> 00:42:54.540
+MODERATOR: You.
+
+374
+00:42:54.570 --> 00:42:59.220
+P10: can compare it with the time series that's where I think that would be most useful.
+
+375
+00:43:00.660 --> 00:43:01.410
+P10: and
+
+376
+00:43:02.730 --> 00:43:03.090
+P10: chat.
+
+377
+00:43:04.530 --> 00:43:04.890
+Think.
+
+378
+00:43:05.970 --> 00:43:09.930
+P10: yeah I don't have any other feedback at a most the feedback, maybe during the.
+
+379
+00:43:10.710 --> 00:43:11.940
+MODERATOR: Government so.
+
+380
+00:43:13.170 --> 00:43:13.560
+P10: yeah.
+
+381
+00:43:13.950 --> 00:43:21.000
+P10: perfect and Okay, are there so is there a survey you want me to complete now as well, I think.
+
+382
+00:43:21.240 --> 00:43:25.320
+MODERATOR: Yes, so i'm gonna stop sharing so zoom get faster.
+
+383
+00:43:25.980 --> 00:43:27.240
+MODERATOR: and want to send the.
+
+384
+00:43:27.690 --> 00:43:35.700
+MODERATOR: questionnaire and I wanted to say that you were like more or less similar to the other participants in terms of time.
+
+385
+00:43:35.760 --> 00:43:39.510
+P10: So that's Okay, and also the feedback that you provided it's.
+
+386
+00:43:39.780 --> 00:43:47.250
+MODERATOR: More or less on the line of the others, so what i'm what are you doing the following well i'm not gonna say just do so you can complete the questionnaire.
+
+387
+00:43:48.420 --> 00:43:49.050
+MODERATOR: and
+
+388
+00:43:52.500 --> 00:43:54.840
+P10: Can I do this, can I do that offline.
+
+389
+00:43:55.200 --> 00:43:56.220
+MODERATOR: yeah yeah absolutely.
+
+390
+00:43:56.220 --> 00:43:57.390
+P10: yeah yeah okay.
+
+391
+00:43:59.460 --> 00:44:03.360
+P10: Okay, did you get this noise at.
+
+392
+00:44:03.990 --> 00:44:04.320
+It.
+

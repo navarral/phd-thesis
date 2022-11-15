@@ -1,0 +1,91 @@
+tag,description,number of highlights
+Moderator Assist,,124
+Report helpful,"The report is nice, useful and helpful to have to understand the data.",124
+Plot clear,The presentation of the variables and functionalities are clear in the plot,112
+Linkage option clear,The linkage options are selected with an idea of why,95
+Text or feature improvement,"Clarify wording, fix typo on a word, add extra information or add information box (tooltip)",87
+Usable tool and data,,86
+Real use case,,52
+Data upload clear,"Upload data is easy and clear, good to provide an exportable and editable template ",48
+Plot not clear,A component of the plot is not clear,47
+Easy to use & time saving,,47
+Linkage process clear,The linkage is understood when completing the steps,41
+Dataset structure clear,The putput dataset columns and rows are understood,38
+Complete output,,38
+Data upload confusing,The layout to upload the events data is not clear or uploaded twice,33
+Data table structure confusing,"The events, dates and lag columns are not completely clear",32
+Text consistent,The consistency and systematic way of writing the text is valued,32
+Processing steps great,,30
+Export fine,Export of the zip file is fine,25
+Researcher's expertise,The researcher comments on their fit or background to evaluate the tool.,25
+CSV output inconsistent,Some of the CSV files have missing data and the reason is not clear,24
+Metadata upload off-guard,Not expecting to upload metadata nor having prepared for it,23
+open tag,,21
+Data protection important,,20
+Data available comment,"Comment related to the type, resolution, granularity or coverage of the available environmental data.",20
+Task confusion,,19
+Linkage option unclear,,18
+CSV output clear,,17
+No preparation,,16
+Simplify report content,,15
+NUTS unclear,,15
+Filter table useful,Filtering the table by values is useful,14
+Filename not good,The filename is rather lengthy or includes characters that difficult opening the files,14
+Confidence in using the data,,13
+Zoom technical,Screen sharing or issues with Zoom display,12
+Temporal unit not viable,Temporal units are selected without taking into account the health events time window,12
+Step 2 flow unclear,The linkage options are not selected in order nor completely selected,11
+Metadata section hard to see,,11
+Spinning takes long,Linking takes longer than expected and there is no progress sign,11
+Add upload checker,,10
+Sanity checks,,10
+Event dates clear,Events dates become clear after reading once or twice the information about them,9
+NUTS understood,NUTS areas are understood after exploration of additional information,9
+Export output error,The export button does not work,9
+Unclear CSV content,The content of the CSV and the filename are not enough to understand the meaning of the data,9
+Filter by variable,Filter data table by variable instead of all at the same time,9
+Event dates confusing,"Selecting from ""as input"" or ""season-alike"" event dates is not clear nor familiar",8
+Refresh website,The webpage had to be refresh due to a component not working,8
+Better than previous version,,8
+Reduce variables during linkage,,8
+Missed some options,Some linkage options were not selected at first,8
+Data upload issue,Issue in the text inputted in the events data table,8
+Spatial linkage not sure,The spatial linkage option is not clear from the point of view of choosing it for research purposes,6
+Multiple aggregation methods,Enable multiple aggregation methods in step 2,6
+Feedback on why there is no data,,6
+TTL not familiar,,5
+Output content clear,,5
+Technical error,,5
+Offline deploy,Offline deploy without external links and by bringing your own environmental data.,5
+Too close to analysis,,5
+Metadata before linkage,,4
+Add clinical data,,4
+No confident in using data,,4
+Satisfied with data table,The linked data table seems good and usable,3
+Data sources clear,,3
+Useful for research,Finds the approach useful for personal use,3
+Use data but draw own plots,Use data but analysis and plots will be done based on each use case by myself,3
+Use more times,,3
+Data table no units,,2
+Linkage option to limit others,A linkage option should only be valid for certain selections,2
+Output dataset advise,,2
+Journey file not useful,,2
+Reorder layout,Adding a pre-step or changing the order of the options within a step,2
+Linkage advise,Linkage advice when you get missing data or to facilitate any of the steps,2
+Normals & sdev not useful,,2
+Add publications,,2
+Add correlations,,2
+Rigid linkage purposes,"Only 2 options available for linkage purposes
+",1
+Graph files not familiar,,1
+Check upload format,,1
+Add upload table view,,1
+Add index to improve navigation,,1
+Hardcore metadata,,1
+Merge plots,,1
+Opening html file confusing,,1
+Add population data,,1
+Recurring events IDs plots,,1
+Raw data without aggregation,,1
+Search function not working,,1
+Add lat/lon to export,,1

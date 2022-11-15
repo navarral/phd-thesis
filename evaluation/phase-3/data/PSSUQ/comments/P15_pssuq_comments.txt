@@ -1,0 +1,61 @@
+
+Timestamp: 9/15/2022 10:15:14
+Participant: P15
+
+1. Overall, I am satisfied with how easy it is to use this system.
+    1 -- Comments. nan
+    
+2. It was simple to use this system.
+    2 -- Comments. I think that for step 1 of task 1 (upload data) a change in the order of the information blocks would make the task easier and simpler.
+    
+3. I could effectively complete the tasks and scenarios using this system.
+    1 -- Comments. nan
+    
+4. I was able to complete the tasks and scenarios quickly using this system.
+    1 -- Comments. nan
+    
+5. I was able to efficiently complete the tasks and scenarios using this system.
+    1 -- Comments. nan
+    
+6. I felt comfortable using this system.
+    2 -- Comments. nan
+    
+7. It was easy to learn to use this system.
+    1 -- Comments. nan
+    
+8. I believe I could become productive quickly using this system.
+    1 -- Comments. nan
+    
+9. The system gave error messages that clearly told me how to fix problems.    
+    1.0 -- Comments. nan
+    
+10. Whenever I made a mistake using the system, I could recover easily and  quickly.
+    1.0 -- Comments. nan
+    
+11. The information (such as on-line help, on-screen messages and  other documentation) provided with this system was clear.
+    1 -- Comments. nan
+    
+12. It was easy to find the information I needed.
+    1 -- Comments. I think it could be useful for certain clients of the SERDIF UI to create a small summary with the most relevant data of the generated graphs. This would make it easier to read the results.
+    
+13. The information provided for the system was easy to understand.
+    1 -- Comments. nan
+    
+14. The information was effective in helping me complete the tasks and  scenarios.
+    1 -- Comments. nan
+    
+15. The organization of information on the system screens was clear.
+    1 -- Comments. nan
+    
+16. The interface of this system was pleasant.
+    1 -- Comments. I think the interface has improved a lot since the last version. It is much more pleasant to work on it.
+    
+17. I liked using the interface of this system.
+    1 -- Comments. nan
+    
+18. This system has all the functions and capabilities I expect it to have.
+    1 -- Comments. nan
+    
+19. Overall, I am satisfied with this system.   
+    1 -- Comments. nan
+

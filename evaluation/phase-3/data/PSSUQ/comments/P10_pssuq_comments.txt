@@ -1,0 +1,61 @@
+
+Timestamp: 8/2/2022 11:07:33
+Participant: P10
+
+1. Overall, I am satisfied with how easy it is to use this system.
+    2 -- Comments. nan
+    
+2. It was simple to use this system.
+    2 -- Comments. nan
+    
+3. I could effectively complete the tasks and scenarios using this system.
+    2 -- Comments. A few bugs
+    
+4. I was able to complete the tasks and scenarios quickly using this system.
+    1 -- Comments. nan
+    
+5. I was able to efficiently complete the tasks and scenarios using this system.
+    1 -- Comments. nan
+    
+6. I felt comfortable using this system.
+    1 -- Comments. nan
+    
+7. It was easy to learn to use this system.
+    1 -- Comments. nan
+    
+8. I believe I could become productive quickly using this system.
+    2 -- Comments. nan
+    
+9. The system gave error messages that clearly told me how to fix problems.    
+    3.0 -- Comments. Need to manage data file upload
+    
+10. Whenever I made a mistake using the system, I could recover easily and  quickly.
+    2.0 -- Comments. nan
+    
+11. The information (such as on-line help, on-screen messages and  other documentation) provided with this system was clear.
+    2 -- Comments. nan
+    
+12. It was easy to find the information I needed.
+    2 -- Comments. Text is quite verbose. Perhaps use simpler text with liberal use of hover-over pop ups for deeper explanation
+    
+13. The information provided for the system was easy to understand.
+    2 -- Comments. Some tweaks required in the graphs
+    
+14. The information was effective in helping me complete the tasks and  scenarios.
+    2 -- Comments. nan
+    
+15. The organization of information on the system screens was clear.
+    1 -- Comments. nan
+    
+16. The interface of this system was pleasant.
+    1 -- Comments. nan
+    
+17. I liked using the interface of this system.
+    1 -- Comments. nan
+    
+18. This system has all the functions and capabilities I expect it to have.
+    3 -- Comments. Add Copernicus for pollution
+    
+19. Overall, I am satisfied with this system.   
+    2 -- Comments. Make handling of missing data items more explicit
+
